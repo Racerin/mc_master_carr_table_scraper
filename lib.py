@@ -40,6 +40,7 @@ class MyTable:
     html : str = field(repr=False, default="")
     column_titles: list[str] = field(default_factory=list)
     save_file_name : str = 'tsv_data.txt'
+    save_file_separator :str = '\t'
 
     def _config_get_text_in_file(self, path:str):
         if path and isinstance(path, str):
@@ -98,22 +99,13 @@ class MyTable:
         return data
     
     def save_table_data(self, table_data:list)->None:
-        save_table_data(table_data, self.save_file_name, separator='\t')
+        save_table_data(table_data, self.save_file_name, separator=self.save_file_separator)
 
-    def get_table_from_file(self):
+    def get_table_from_file(self)->None:
         self.load_html_from_file(config_file.html_location)
         self.get_webpage_soup()
         table_data = self.get_product_table()
         self.save_table_data(table_data)
 
-    def test_sample_html(self):
-        # Load html from url
-        # self.get_webpage_html()
-        # Load html from file
-        self.load_html_from_file(config_file.html_location)
-        # Get the webpage in nice OOP format
-        self.get_webpage_soup()
-        # This is the webpage made to look nice.
-        # print(self.soup.prettify())
-        table_data = self.get_product_table()
-        self.save_table_data(table_data)
+    def get_table_from_webpage(self)->None:
+        self.get_webpage_html()
