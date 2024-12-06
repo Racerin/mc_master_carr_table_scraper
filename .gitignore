@@ -1,0 +1,12 @@
+# Python noise
+*__pycache__*
+venv
+
+# vscode
+launch.json
+
+# Code security
+# *.txt
+*.tsv
+*.csv
+config_file - template.py

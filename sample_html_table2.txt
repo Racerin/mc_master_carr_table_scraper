@@ -1,0 +1,1146 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="csstransitions"><head>
+    <title>screws | McMaster-Carr</title>
+    <base href="/products/screws/rounded-head-screws~/length~20-mm/jis-stainless-steel-pan-head-screws/">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="description" content="McMaster-Carr is the complete source for your plant with over 595,000 products. 98% of products ordered ship from stock and deliver same or next day.">
+    <meta name="google" content="nositelinkssearchbox">
+    <meta name="robots" content="noarchive, noimageindex">
+    <meta name="apple-itunes-app" content="app-id=611431035, app-clip-bundle-id=com.mcmaster.McMaster-Carr-App.Clip">
+
+    
+    <link rel="dns-prefetch" href="//images1.mcmaster.com">
+    <link rel="dns-prefetch" href="//www1.mcmaster.com">
+    <link rel="dns-prefetch" href="//www2.mcmaster.com">     
+    <link rel="preload" href="https://images1.mcmaster.com/init/gfx/MastheadLogo.svg?ver=1545146094" as="image" type="image/svg+xml">
+    <link rel="preload" href="/init/Fonts/2D027A_0_0.woff2?ver=1622213662" crossorigin="anonymous" as="font" type="font/woff2">
+    <link rel="preload" href="/init/Fonts/2D027A_3_0.woff2?ver=1554477670" crossorigin="anonymous" as="font" type="font/woff2">
+    <link rel="preload" href="/init/Fonts/2D027A_2_0.woff2?ver=1554477670" crossorigin="anonymous" as="font" type="font/woff2">
+
+    <link rel="preload" href="https://images1.mcmaster.com/init/gfx/home/Fastening-and-Joining-Fasteners-sprite-60.png?ver=1539608820" as="image" type="image/png">
+      <link rel="preload" href="https://images1.mcmaster.com/init/gfx/home/Fastening-and-Joining-Adhesives-and-Tape-sprite-60.png?ver=1539608820" as="image" type="image/png">
+      <link rel="preload" href="https://images1.mcmaster.com/init/gfx/home/Fastening-and-Joining-Welding-Brazing-and-Soldering-sprite-60.png?ver=1539608820" as="image" type="image/png">
+      <link rel="preload" href="https://images1.mcmaster.com/init/gfx/home/Pipe-Tubing-Hose-and-Fittings-sprite-60.png?ver=1539608820" as="image" type="image/png">
+      <link rel="preload" href="https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Rotary-Motion-sprite-60.png?ver=1539608820" as="image" type="image/png">
+      <link rel="preload" href="https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Linear-Motion-sprite-60.png?ver=1539608820" as="image" type="image/png">
+      <link rel="preload" href="https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Hydraulics-sprite-60.png?ver=1539608820" as="image" type="image/png">
+      <link rel="preload" href="https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Pneumatics-sprite-60.png?ver=1539608820" as="image" type="image/png">
+          
+    
+    <script data-mcm-hash-id="1">
+        (function () {
+        
+            window._isShellCacheable = true;
+        
+
+            window.OriginalHref = document.location.href;
+
+            if (window.history && window.history.pushState) {
+            
+            if (location.search && location.search.length > 0) {
+                var qsMatch = /(?:\?)(?:cache=false&reason=[a-z]+&t=\d{13})(?:&|$)(.*)/i.exec(location.search);
+                if (qsMatch) {
+                    var qsToPreserve = qsMatch[1];
+                    var newPath = location.pathname + (qsToPreserve ? '?' : '') + qsToPreserve; 
+                    window.history.replaceState(null, "McMaster-Carr", newPath);
+                }
+            }
+
+        } else {
+            
+            var path = location.pathname.substr(1).split('/')[0];
+            if (path.length === 0) { 
+                } else {
+                    location.replace('/#' + path);
+                }
+            }
+
+        
+
+        
+            try { new XMLHttpRequest(); } catch (ex) { self.location.href = "/init/AjaxNotSupported.aspx"; }
+
+        
+            window.openSiteSettings = function () {
+                if (McMaster) {
+                    var msgHdr = new McMaster.MsgMgr.Hdr();
+                    var msg = new McMaster.MsgMgrMsgs.SiteSettingsSlctd(msgHdr);
+                    McMaster.MsgMgr.PubMsg(msg);
+                }
+            }
+
+            window.openTax = function () {
+                if (McMaster) {
+                    var msgHdr = new McMaster.MsgMgr.Hdr();
+                    var msg = new McMaster.MsgMgrMsgs.TaxSlctd(msgHdr);
+                    McMaster.MsgMgr.PubMsg(msg);
+                }
+            }
+
+        
+            window.supportsES6 = true;
+        })();
+    </script>
+
+    <script nomodule="" data-mcm-hash-id="2"> 
+        
+        window.supportsES6 = false;
+    </script>
+
+
+<script data-mcm-hash-id="3">
+    (function() {
+
+        var fetchDynamic = function() {
+            var useES6 = window.supportsES6 ? '&useEs6=true' : '';
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function(ev) {
+                if (xhr.readyState === 4) {
+                    var head = document.getElementsByTagName('head')[0];
+                    var frag = document.createDocumentFragment();
+                    var d = document.createElement('div');
+
+                    if (document.all && !document.addEventListener) {
+                        // IE8
+                        d.innerHTML = ' _' + xhr.responseText;
+                        d.removeChild(d.firstChild);
+                    } else {
+                        d.innerHTML = xhr.responseText;
+                    }
+
+                    var metaTags = d.getElementsByTagName('meta');
+                    for (var i=0; i<metaTags.length; i++) {
+                       
+                            frag.appendChild(metaTags[i].cloneNode(true));                
+                    }
+
+                    var links = d.getElementsByTagName('link');
+                    for (var i=0; i<links.length; i++) {
+                        if (links[i].getAttribute("data-deferred") === "mcm-init") {
+                            frag.appendChild(links[i].cloneNode(true));
+                        }                         
+                    }        
+                    
+                    var scripts = d.getElementsByTagName('script');
+                    for (var i=0; i<scripts.length; i++) {
+                        var node = scripts[i];
+                        if (node.getAttribute("data-deferred") === "mcm-init") {
+                            var script = document.createElement('script');
+                            script.setAttribute('data-deferred', 'mcm-init');
+
+                            if (node.noModule) {
+                                script.noModule = true;
+                            }
+
+                            if (node.textContent || node.text) {
+                                if (document.all && !document.addEventListener) {
+                                    script.text = node.text;
+                                } else {
+                                    script.textContent = node.textContent;
+                                }  
+                            } else {
+                                script.setAttribute('data-deferred-src', node.getAttribute('data-deferred-src'));
+                            }
+                            
+                            if (node.getAttribute("nonce")){
+                                script.setAttribute('nonce', node.getAttribute('nonce'));
+                            }
+
+                            frag.appendChild(script); 
+                        }
+                    }
+                        
+                    head.appendChild(frag);
+                    window.handlePageReady();
+                }                
+            };
+            xhr.onerror = function(ev) {
+                // todo reload page with cache=false if not already on that page
+                // console.log('error');
+                // todo
+            };
+            // todo non-service worker browsers should never be forced to reload.
+            xhr.open("GET", "/init/ShellDynamic.aspx?caller_cacheable=true" + useES6);
+            xhr.send();
+
+        };
+
+        window.addEventListener('DOMContentLoaded', fetchDynamic);            
+
+    })();
+    </script>
+    <link rel="preload" as="fetch" crossorigin="anonymous" href="/init/ShellDynamic.aspx?caller_cacheable=true&amp;useEs6=true">
+
+	<link type="application/opensearchdescription+xml" rel="search" href="/init/OpenSearch.aspx">
+    <meta name="keywords" content="mcmaster-carr supply company, mcmaster, carr, mcm, MRO, industrial supplies, facilities maintenance, materials management, business-to-business, supply distribution, commercial supplier">
+    <meta name="viewport" content="width=1024">
+ 
+    <link rel="icon" type="image/x-icon" sizes="96x96" href="/init/gfx/favicon/favicon.ico">
+    <link rel="icon" type="image/png" sizes="114x114" href="/init/gfx/favicon/114x114.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="/init/gfx/favicon/128x128.png">
+    <link rel="icon" type="image/png" sizes="152x152" href="/init/gfx/favicon/152x152.png">
+    <link rel="icon" type="image/png" sizes="167x167" href="/init/gfx/favicon/167x167.png">
+    <link rel="icon" type="image/png" sizes="180x180" href="/init/gfx/favicon/180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/init/gfx/favicon/192x192.png">
+
+    <link rel="apple-touch-icon" sizes="114x114" href="/init/gfx/favicon/114x114.png">
+    <link rel="apple-touch-icon" sizes="128x128" href="/init/gfx/favicon/128x128.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/init/gfx/favicon/152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/init/gfx/favicon/167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/init/gfx/favicon/180x180.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="/init/gfx/favicon/192x192.png">
+
+    <meta property="og:title" content="McMaster-Carr">
+    <meta property="og:description" content="McMaster-Carr is the complete source for your plant with over 595,000 products. 98% of products ordered ship from stock and deliver same or next day.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.mcmaster.com/">
+    <meta property="og:image" content="https://images1.mcmaster.com/init/gfx/favicon/192x192.png?ver=1622796110">
+    <meta property="og:image:secure_url" content="https://images1.mcmaster.com/init/gfx/favicon/192x192.png?ver=1622796110">
+	
+	<meta name="twitter:card" content="summary">
+    
+    <style>
+/* CmnStyle.css */
+html{color:#333;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}fieldset,img{border:0}li{list-style:none;display:list-item}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}input,textarea,select{font:normal 12px arial,helvetica,sans-serif;line-height:1.3}body{background-color:#FFF;color:#333;font:normal 12px arial,helvetica,sans-serif!important;line-height:1.3!important}iframe{border:0}.DefltOpaqueBackgrnd{background:#FFF}.TopRul{border-top:solid 1px #999}.BottomRul{border-bottom:solid 1px #999}.VerticalSeprt{color:#999}img{outline-style:none;-moz-outline-style:none}.SecondaryLnk,.ai{font-family:arial,helvetica,sans-serif;color:#069;font-size:11px}.BottomNavLnk{color:#000;text-decoration:none;font-size:11px}
+
+/* ShellLayout.css */
+html{height:100%;overflow:hidden}body{height:100%;overflow:hidden;position:relative;-webkit-tap-highlight-color:rgba(0,0,0,0)}#ShellLayout_MainContent_Cntnr{border-right:0;border-left:none;height:100%;width:100%}.ShellLayout_MainContent_Inner_SecondaryContent_Expanded{padding-left:200px;height:100%}#MainContent{background-color:#FFF;overflow:auto;height:100%;padding:0 10px 0 20px;position:relative;zoom:1}#ShellLayout_MainIFrame_Cntnr{height:100%;padding-left:6px}#MainIFrame{height:100%;width:100%;border:0;display:none;position:relative;z-index:400}#ShellLayout_NoScript_Cntnr{padding-left:30px;width:350px}.ShellLayout_MainContent_WebPartContainer{display:block;height:100%;position:relative}.ShellLayout_MainContent_WebPartContent_Cntnr{display:block;top:5px;bottom:0;position:relative;width:100%}.ShellLayout_MainContent_Inner_SecondaryContent_Collapsed{height:100%}.CollapsedSecondaryContent#MainContent{padding:0 10px 0 10px}.CollapsedSecondaryContentWithHomePageNav#MainContent{padding:0 10px 0 0}#ShellLayout_SecondaryContent_Cntnr{background-color:white;border-top:0;border-right:0;border-bottom:0;border-left:none;height:100%;left:0;position:absolute;top:0;width:195px;padding-right:5px;z-index:90}.ShellLayout_SecondaryContent_Cntnr_SecondaryContent_Collapsed{display:none}.PanelTitl{color:#333;cursor:default;font-weight:bold;padding-top:3px;padding-bottom:1px}.PanelTitl#SecondaryContentTitl{display:none;margin-left:8px;border-bottom:1px solid #363;width:179px;position:absolute}#ShellLayout_SecondaryContent_Content_Cntnr{height:100%;width:100%;z-index:0;border-style:none solid none none;border-color:#CCC;border-width:1px;padding-right:5px}#SecondaryContent{left:0;overflow:auto;position:absolute;bottom:0;top:0;width:100%;z-index:0;background-color:white;display:block;margin-top:22px}#ResultsIFrame{bottom:0;left:0;top:0;position:absolute;border:0;height:100%;width:100%;z-index:1000;margin-top:30px;background-color:#fff;display:none}#Shell_BottomNavWebPart_Cntnr{bottom:0;left:0;position:absolute;width:100%;z-index:300}::-webkit-scrollbar{width:11px}::-webkit-scrollbar-track{background-color:#cbcbcb;-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.01)}::-webkit-scrollbar-thumb{background-color:#999;-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0)}::-webkit-scrollbar-thumb:window-inactive{background:rgba(0,0,0,0.06)}
+
+/* ShellInitialContent.css */
+.shell-initial-content .WebToolsetWebPart_Cntnr{position:relative!important}.shell-initial-content #HomePage{min-height:1800px}.shell-initial-content #choose-a-cat{visibility:hidden}#SecondaryContent>.shell-initial-content{height:100%}
+
+/* HomePageWebPart.Generated.Init.css */
+@media only screen{.hp-subcat3 ul{width:216px;padding-right:72px}.hp-subcat7 ul{width:504px;padding-right:72px}}@media only screen and (max-width:862px){.hp-subcat8 ul{width:288px;padding-right:72px}.hp-subcat17 ul{width:432px;padding-right:72px}.hp-subcat22 ul{width:504px;padding-right:72px}.hp-subcat24 ul{width:432px;padding-right:72px}.hp-subcat8{width:100%}.hp-subcat17{width:100%}.hp-subcat22{width:100%}.hp-subcat24{width:100%}.hp-subcat7 ul{padding-right:0!important}.hp-subcat22 ul{padding-right:0!important}.hp-subcat26 ul{padding-right:0!important}}@media only screen and (min-width:863px){.hp-subcat8 ul{width:576px;padding-right:72px}}@media only screen and (max-width:1078px){.hp-subcat11 ul{width:432px;padding-right:72px}.hp-subcat11{width:100%}}@media only screen and (min-width:1079px){.hp-subcat11 ul{width:792px;padding-right:72px}}@media only screen and (min-width:863px) and (max-width:934px){.hp-subcat17 ul{width:576px;padding-right:72px}.hp-subcat17{width:100%}.hp-subcat8 ul{padding-right:0!important}.hp-subcat17 ul{padding-right:0!important}.hp-subcat22 ul{padding-right:0!important}.hp-subcat24 ul{padding-right:0!important}}@media only screen and (min-width:935px) and (max-width:1510px){.hp-subcat17 ul{width:648px;padding-right:72px}.hp-subcat17{width:100%}}@media only screen and (min-width:1511px){.hp-subcat17 ul{width:1224px;padding-right:72px}}@media only screen and (min-width:863px) and (max-width:1078px){.hp-subcat22 ul{width:576px;padding-right:72px}.hp-subcat22{width:100%}}@media only screen and (min-width:1079px) and (max-width:1870px){.hp-subcat22 ul{width:792px;padding-right:72px}.hp-subcat22{width:100%}}@media only screen and (min-width:1871px){.hp-subcat22 ul{width:1584px;padding-right:72px}}@media only screen and (min-width:863px) and (max-width:1150px){.hp-subcat24 ul{width:576px;padding-right:72px}.hp-subcat24{width:100%}}@media only screen and (min-width:1151px) and (max-width:2014px){.hp-subcat24 ul{width:864px;padding-right:72px}.hp-subcat24{width:100%}}@media only screen and (min-width:2015px){.hp-subcat24 ul{width:1728px;padding-right:72px}}@media only screen and (max-width:934px){.hp-subcat26 ul{width:504px;padding-right:72px}.hp-subcat26{width:100%}}@media only screen and (min-width:935px) and (max-width:1222px){.hp-subcat26 ul{width:648px;padding-right:72px}.hp-subcat26{width:100%}}@media only screen and (min-width:1223px) and (max-width:2158px){.hp-subcat26 ul{width:936px;padding-right:72px}.hp-subcat26{width:100%}}@media only screen and (min-width:2159px){.hp-subcat26 ul{width:1872px;padding-right:72px}}@media only screen and (min-width:1079px) and (max-width:1150px){.hp-subcat11 ul{padding-right:0!important}.hp-subcat22 ul{padding-right:0!important}}@media only screen and (min-width:935px) and (max-width:1006px){.hp-subcat17 ul{padding-right:0!important}.hp-subcat26 ul{padding-right:0!important}}@media only screen and (min-width:1511px) and (max-width:1582px){.hp-subcat17 ul{padding-right:0!important}}@media only screen and (min-width:1871px) and (max-width:1942px){.hp-subcat22 ul{padding-right:0!important}}@media only screen and (min-width:1151px) and (max-width:1222px){.hp-subcat24 ul{padding-right:0!important}}@media only screen and (min-width:2015px) and (max-width:2086px){.hp-subcat24 ul{padding-right:0!important}}@media only screen and (min-width:1223px) and (max-width:1294px){.hp-subcat26 ul{padding-right:0!important}}@media only screen and (min-width:2159px) and (max-width:2230px){.hp-subcat26 ul{padding-right:0!important}}.HP_0_1 span{background-image:url("https://images1.mcmaster.com/init/gfx/home/ipad-homepage-sprite-60.png?ver=1539608820")}.HP_1_1 span{background-image:url("https://images1.mcmaster.com/init/gfx/home/Fastening-and-Joining-Fasteners-sprite-60.png?ver=1539608820")}.HP_1_2 span{background-image:url("https://images1.mcmaster.com/init/gfx/home/Fastening-and-Joining-Adhesives-and-Tape-sprite-60.png?ver=1539608820")}.HP_1_3 span{background-image:url("https://images1.mcmaster.com/init/gfx/home/Fastening-and-Joining-Welding-Brazing-and-Soldering-sprite-60.png?ver=1539608820")}.HP_2_1 span{background-image:url("https://images1.mcmaster.com/init/gfx/home/Pipe-Tubing-Hose-and-Fittings-sprite-60.png?ver=1539608820")}.HP_3_1 span{background-image:url("https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Rotary-Motion-sprite-60.png?ver=1539608820")}.HP_3_2 span{background-image:url("https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Linear-Motion-sprite-60.png?ver=1539608820")}.HP_3_3 span{background-image:url("https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Hydraulics-sprite-60.png?ver=1539608820")}.HP_3_4 span{background-image:url("https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Pneumatics-sprite-60.png?ver=1539608820")}.s1{background-position:0 0}.s2{background-position:-60px}.s3{background-position:-120px}.s4{background-position:-180px}.s5{background-position:-240px}.s6{background-position:-300px}.s7{background-position:-360px}.s8{background-position:-420px}.s9{background-position:-480px}.s10{background-position:-540px}.s11{background-position:-600px}.s12{background-position:-660px}.s13{background-position:-720px}.s14{background-position:-780px}.s15{background-position:-840px}.s16{background-position:-900px}.s17{background-position:-960px}.s18{background-position:-1020px}.s19{background-position:-1080px}.s20{background-position:-1140px}.s21{background-position:-1200px}.s22{background-position:-1260px}.s23{background-position:-1320px}.s24{background-position:-1380px}.s25{background-position:-1440px}.s26{background-position:-1500px}#catg1 h1{border-top:none!important}.catg{display:block}#catg0{display:none}@media only screen and (max-width:790px){.catg{display:none}#catg0{display:block}.hp-category-selected .catg{display:block}.hp-category-selected #catg0{display:none}}@media only screen and /*! shim */(min-resolution:192dpi),only screen and /*! shim */(-webkit-min-device-pixel-ratio:2){.HP_0_1 span{background-size:1560px;background-image:url("https://images1.mcmaster.com/init/gfx/home/ipad-homepage-sprite-120.png?ver=1539608820")}.HP_1_1 span{background-size:1320px;background-image:url("https://images1.mcmaster.com/init/gfx/home/Fastening-and-Joining-Fasteners-sprite-120.png?ver=1539608820")}.HP_1_2 span{background-size:180px;background-image:url("https://images1.mcmaster.com/init/gfx/home/Fastening-and-Joining-Adhesives-and-Tape-sprite-120.png?ver=1539608820")}.HP_1_3 span{background-size:660px;background-image:url("https://images1.mcmaster.com/init/gfx/home/Fastening-and-Joining-Welding-Brazing-and-Soldering-sprite-120.png?ver=1539608820")}.HP_2_1 span{background-size:1020px;background-image:url("https://images1.mcmaster.com/init/gfx/home/Pipe-Tubing-Hose-and-Fittings-sprite-120.png?ver=1539608820")}.HP_3_1 span{background-size:1440px;background-image:url("https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Rotary-Motion-sprite-120.png?ver=1539608820")}.HP_3_2 span{background-size:480px;background-image:url("https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Linear-Motion-sprite-120.png?ver=1539608820")}.HP_3_3 span{background-size:420px;background-image:url("https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Hydraulics-sprite-120.png?ver=1539608820")}.HP_3_4 span{background-size:660px;background-image:url("https://images1.mcmaster.com/init/gfx/home/Power-Transmission-Pneumatics-sprite-120.png?ver=1539608820")}}
+
+/* HomePageWebPartLayout.css */
+#HomePage .catg{clear:left;position:relative;zoom:1;background:white}#HomePage .catg h1{border-top:1px solid #363;display:block;margin-bottom:5px;cursor:default;color:#363;font-size:19px;font-weight:bold;margin-bottom:5px}#HomePage .catg h1{font-family:HelveticaNeueeTextPro-Md,arial,sans-serif;padding-top:2px;font-weight:normal;letter-spacing:-0.5px}#HomePage .subcat{display:inline;float:left;padding-bottom:12px}#HomePage .subcat h2{color:#333;font-size:14px;font-weight:normal;cursor:default;padding-left:5px;white-space:nowrap}#HomePage .subcat h2{font-family:HelveticaNeueeTextPro-Roman,arial,sans-serif;font-weight:bold;font-size:12px;padding-bottom:5px}#HomePage .subcat ul{display:inline;float:left}#HomePage .subcat li{display:inline;float:left;width:72px;height:114px;overflow:hidden;zoom:1;vertical-align:top}#HomePage .subcat a{display:block;position:relative;zoom:1;padding-left:5px;padding-right:5px;color:#666;font-size:10.5px;font-family:arial,sans-serif;line-height:1.15;text-decoration:none;text-align:center;cursor:pointer}#HomePage .subcat a span{display:block;position:relative;width:60px;height:60px;margin-bottom:5px;overflow:hidden;zoom:1;background-color:White;border:1px solid #eee}
+
+/* HomePageNavWebPartLayout.css */
+#HomePageNavigation{height:99%}#HomePageCatgs{height:100%;display:flex;flex-direction:column;min-height:470px;max-height:630px}#HomePageCatgs a{flex:1;overflow:hidden;color:#333;display:block;font-size:12px;font-family:Arial;text-decoration:none;margin-left:4px;border-left:4px solid white;padding-left:12px;padding-right:0;padding-top:4px;padding-bottom:2px;text-indent:-12px;cursor:pointer;vertical-align:middle}#HomePageCatgs a{font-family:HelveticaNeueeTextPro-Roman,arial,sans-serif;font-size:10.5px}#HomePageCatgs a:first-child{margin-top:3px}.touch .HomePageNavCatgLnk,.touch .HomePageNavCatgLnk_Selected{padding-top:16px}.touch #HomePageCatgs{min-height:800px;max-height:800px;padding-bottom:20px}.HomePageNavCatgLnk_Selected{background-color:#ffe600;color:#000;font-weight:bold;text-decoration:none}#HomePageCatgs a:hover{background-color:#ffffb5;text-decoration:underline}.touch .HomePageNavCatgLnk:hover{background-color:transparent;text-decoration:underline;color:#333}.home-page-nav-title{height:16px;flex-grow:0;flex-shrink:0;flex-basis:auto;max-width:179px;position:sticky;top:0;margin-left:8px;border-bottom:1px solid #363;background-color:white;color:#333;font-family:'HelveticaNeueeTextPro-Md',arial,sans-serif;font-weight:normal;padding-top:3px;padding-bottom:2px}#HomePageNavigation{height:unset;flex-basis:652px;flex-grow:1;flex-shrink:1}
+
+/* WebToolsetWebPartLayout.css */
+.WebToolsetWebPart_Cntnr{background-color:#fff;height:16px;padding-top:3px;position:fixed;white-space:nowrap;z-index:8900}.WebToolsetWebPart-border{background:-webkit-linear-gradient(90deg,#363 0,#363 1px,white 1px,white 100%);background:linear-gradient(360deg,#363 0,#363 1px,white 1px,white 100%);border-right:8px solid white;border-left:15px solid white;margin-left:-15px;padding-bottom:3px}.WebToolsetToolWebPart_Cntnr{border-top:solid 2px #fff;height:16px;padding:0 6px;white-space:nowrap;z-index:9000}.WebToolsetToolWebPart_Aligned_RIGHT{border-right:solid 1px #999;float:right}.WebToolsetToolWebPart_Aligned_RIGHT:first-child{border-right:0;float:right}.WebToolsetToolWebPart_Aligned_LEFT{font-family:"HelveticaNeueeTextPro-Md",arial,sans-serif;font-size:12px;position:absolute!important;left:0!important;bottom:0}.homepage-categories .WebToolsetToolWebPart_Aligned_LEFT{bottom:unset}.WebToolsetToolWebPart_TxtTool_Cntnr{border:none!important;font-weight:500;padding-bottom:1px}.homepage-categories .WebToolsetToolWebPart_TxtTool_Cntnr{font-family:'HelveticaNeueeTextPro-Md',arial,sans-serif;font-weight:normal}.WebToolsetToolWebPart_FormCntnr,.WebToolsetToolWebPart_ConfirmationMsg{background:#fff;border:solid 2px #ddd;display:none;overflow:visible;right:0;padding:10px 10px 0 15px;position:absolute;width:305px;height:auto;z-index:-1}.WebToolsetToolWebPart_ConfirmationMsg{padding-bottom:5px}}*/
+
+/* BottomNavWebPartLayout.css */
+#BottomNavWebPart_Cntnr{padding-top:0;padding-bottom:2px;padding-left:5px}#BottomNavWebPart_Cntnr .VerticalSeprt{display:inline;font-size:16px}#BottomNavWebPart_TermsCntnr{float:right;padding-top:4px;padding-right:8px;padding-left:15px}#BottomNavWebPart_TermsCntnr .TermsTxt{color:#000;font-size:11px}#BottomNavWebPart_LnksCntnr{display:inline}#BottomNavWebPart_LnksCntnr .BottomNavLnk{display:inline-block;padding:3px 7px}@media screen and (max-width:950px){#BottomNavWebPart_LnksCntnr .BottomNavLnk{padding:3px 4px}}
+
+/* init.css */
+.hidden{display:none;visibility:hidden;height:0}.screen-reader-only{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.currency-hidden::first-letter {color:transparent}.hidden-transitioning{visibility:hidden;height:0;padding:0!important;border:0!important}.animation-shortlived{position:fixed;-webkit-transition:left .5s,top .5s;transition:left .5s,top .5s}@font-face{font-family:'FuturaLTPro-BoldCond';font-display:fallback;src:url("/init/Fonts/2D027A_0_0.eot?ver=1622213662");src:url("/init/Fonts/2D027A_0_0.eot?ver=1622213662#iefix") format("embedded-opentype"),url("/init/Fonts/2D027A_0_0.woff2?ver=1622213662") format("woff2"),url("/init/Fonts/2D027A_0_0.woff?ver=1622213662") format("woff"),url("/init/Fonts/2D027A_0_0.ttf?ver=1622213662") format("truetype")}@font-face{font-family:'HelveticaNeueeTextPro-Roman';font-display:fallback;src:url("/init/Fonts/2D027A_3_0.eot?ver=1554477670");src:url("/init/Fonts/2D027A_3_0.eot?ver=1554477670#iefix") format("embedded-opentype"),url("/init/Fonts/2D027A_3_0.woff2?ver=1554477670") format("woff2"),url("/init/Fonts/2D027A_3_0.woff?ver=1554477670") format("woff"),url("/init/Fonts/2D027A_3_0.ttf?ver=1554477670") format("truetype")}@font-face{font-family:'HelveticaNeueeTextPro-Md';font-display:fallback;src:url("/init/Fonts/2D027A_2_0.eot?ver=1554477670");src:url("/init/Fonts/2D027A_2_0.eot?ver=1554477670#iefix") format("embedded-opentype"),url("/init/Fonts/2D027A_2_0.woff2?ver=1554477670") format("woff2"),url("/init/Fonts/2D027A_2_0.woff?ver=1554477670") format("woff"),url("/init/Fonts/2D027A_2_0.ttf?ver=1554477670") format("truetype")}.header--masthead,.masthead-nav a{font-size:14px;font-size:.875rem;font-family:"FuturaLTPro-BoldCond",arial,sans-serif;text-transform:uppercase;color:#363}.button-primary,.button-secondary,.button-tertiary{font-family:"DINNextLTPro-Medium",arial,sans-serif}button{font:inherit;line-height:normal;overflow:visible;color:inherit;border:0;background:0;padding:0;-webkit-appearance:button}button:focus{outline:1px solid #49d}.tab-inactive button:focus{outline:0}.button-reset--IE{position:relative;cursor:pointer}.button-primary,.button-secondary,.button-tertiary{-webkit-transition:background-color .3s ease;transition:background-color .3s ease;text-transform:uppercase;border-radius:2px;box-shadow:none}.button-primary:hover,.button-secondary:hover,.button-tertiary:hover{cursor:pointer;-webkit-transition:background-color .1s ease;transition:background-color .1s ease}.button-primary:active,.button-secondary:active,.button-tertiary:active{cursor:pointer;-webkit-transition:background-color .1s ease;transition:background-color .1s ease}.button-primary{font-size:12px;font-size:.75rem;padding:3px 15px;color:#fff;border:1px solid #363;background-color:#363}.button-primary:hover{border-color:#3c773c;background-color:#3c773c}.button-primary:active{border-color:#1d591d;background-color:#1d591d}.button-secondary{font-size:12px;font-size:.75rem;padding:3px 15px;color:#000;border:1px solid #fed700;background-color:#fed700}.button-secondary:hover{border-color:#fec914;background-color:#fec914}.button-secondary:active{border-color:#feec00;background-color:#feec00}.button-tertiary{font-size:12px;font-size:.75rem;padding:3px 15px;color:#777;border:1px solid #d6d6d6;background-color:#d6d6d6;text-shadow:0 0 #000}.button-tertiary:hover{color:#666;border-color:#666;background-color:#cbcbcb}.button-tertiary:active{color:#333;border-color:#333;background-color:#d6d6d6}.button-primary{margin:0}.button-secondary{margin:0}.button-tertiary{margin:0}input[type='text'],input[type='password'],input[type='radio'],input[type='checkbox'],textarea{box-shadow:none}input[type='radio']:focus,input[type='checkbox']:focus,textarea:focus{outline:1px solid #49d}.tab-inactive input[type='radio']:focus,.tab-inactive input[type='checkbox']:focus{outline:0}a{text-decoration:none;color:#000}a:focus{outline:1px solid #49d}.tab-inactive a:focus{outline:0}#BrowseCatalog_ButtonCntnr img#BrowseCatalog_ButtonImg{cursor:pointer;float:left;height:9px;padding-right:4px}#BrowseCatalog_ButtonCntnr button#BrowseCatalog_Button{color:#363;cursor:pointer;float:left;font-family:"FuturaLTPro-BoldCond",arial,sans-serif;font-size:11px;letter-spacing:.035em;position:relative;top:-3px}#BrowseCatalog_ButtonCntnr button#BrowseCatalog_Button:hover{text-decoration:underline}#BrowseCatalog_Cntnr .overlay{background:#999;bottom:0;left:0;pointer-events:none;opacity:0;position:fixed;right:0;top:0;-webkit-transition:opacity .3s ease-out 0s;transition:opacity .3s ease-out 0s;z-index:10000000}#BrowseCatalog_Cntnr .overlay.active{opacity:.6;pointer-events:auto}#BrowseCatalog_Cntnr .browse-catalog-menu{background-color:white;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:column nowrap;-ms-flex-flow:column nowrap;flex-flow:column nowrap;height:100%;left:-400px;position:fixed;top:0;-webkit-transition:left .3s ease-out 0s;transition:left .3s ease-out 0s;width:400px;z-index:10000005}#BrowseCatalog_Cntnr .browse-catalog-menu.active{left:0}#BrowseCatalog_Cntnr .browse-catalog-menu header{-webkit-box-flex:0;-webkit-flex:0 0 58px;-ms-flex:0 0 58px;flex:0 0 58px}#BrowseCatalog_Cntnr .browse-catalog-menu header .logo-link img{height:32px;padding:13px 0 0 13px;width:auto}#BrowseCatalog_Cntnr .browse-catalog-menu header .close-button{background-image:url("https://images1.mcmaster.com/mvC/gfx/cancel.png?ver=1643722386");background-origin:content-box;background-repeat:no-repeat;background-size:contain;cursor:pointer;height:16px;position:absolute;right:21px;top:21px;width:16px}#BrowseCatalog_Cntnr .browse-catalog-menu .category-list{overflow-y:scroll}#BrowseCatalog_Cntnr .browse-catalog-menu .category-list::-webkit-scrollbar{position:relative;width:10px;background-color:#c9c9c9}#BrowseCatalog_Cntnr .browse-catalog-menu .category-list::-webkit-scrollbar-thumb{background-color:#a0a0a0}#BrowseCatalog_Cntnr .browse-catalog-menu .category-tile{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;border-color:#efefef;border-radius:0;border-style:solid;border-width:.01px;box-sizing:border-box;color:#000;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;height:62px;padding:9.75px 8.5px;width:100%}#BrowseCatalog_Cntnr .browse-catalog-menu .category-tile:hover{background-color:#edf2ed}#BrowseCatalog_Cntnr .browse-catalog-menu .category-tile>img{height:40.5px;margin-right:9.25px;width:40.5px}#BrowseCatalog_Cntnr .browse-catalog-menu .category-tile>.category-name{font-family:"HelveticaNeueeTextPro-Roman",arial,sans-serif;font-size:13px;font-style:normal;font-weight:bold}@media print{#BrowseCatalog_Cntnr{display:none}}#LogoWebPart_Link{display:block}.logo-web-part a{display:block}.logo-web-part a img{height:32px;width:auto}.link-logoff{font-weight:bold;text-transform:uppercase}.header--masthead{text-transform:none}#LoginUsrCtrlWebPart_LoginLnk{color:#333;float:none;font-family:"HelveticaNeueeTextPro-Roman",arial,sans-serif;font-size:12px;font-weight:bold;margin-right:0}#LoginUsrCtrlWebPart_LoginLnk>svg{fill:#333;margin:0 0 1px 3px;height:6px;width:10px}.masthead-top-right .link-wrapper{display:inline-block}.masthead-top-right .link-wrapper>a{color:#666;font-family:"HelveticaNeueeTextPro-Roman",arial,sans-serif;font-size:12px}.masthead-top-right .link-wrapper>a:hover{text-decoration:underline}.masthead-top-right .link-wrapper:last-of-type{border-right:0;padding-right:0}.masthead-top-right span.dropdown-arrow-masthead{border-top:5px solid #666;border-left:4px solid transparent;border-right:4px solid transparent;margin-left:4px;position:relative;top:-2px}.masthead-top-right .divider{background-color:#878787;display:inline-block;height:7px;width:1px;margin:1px 12px}@media print{.masthead-top-right{display:none}}.masthead-nav .li-masthead{position:relative;display:block;float:left;margin-right:48px;white-space:nowrap}.masthead-nav .li-masthead:last-of-type{margin-right:0}.masthead-nav .li-masthead.li-masthead--order{width:41px}.masthead-nav .li-masthead.li-masthead--ordhist{padding-left:0}.masthead-nav a{font-size:16px}.masthead-nav a:hover{text-decoration:underline}.container-searchentry *,.container-searchentry *:focus,.container-searchentry *:hover{outline:0}.container-searchentry .ac-searchbar{z-index:-1;display:inline;position:absolute;left:0;height:32px;width:100%;padding-left:6px;padding-top:2px;padding-right:68px;vertical-align:middle;font-family:arial,sans-serif;font-size:13px;line-height:20px;text-indent:2px;border:1px;border-radius:2px;box-shadow:none;color:#888;overflow:hidden;box-sizing:border-box}.container-searchentry .searchbar{background-color:#fff;border:1px solid #999;padding-right:68px;text-indent:2px;box-sizing:border-box;font-family:Arial,sans-serif;font-size:13px;height:32px;padding-left:5px;padding-top:2px;vertical-align:middle;width:100%;z-index:1000}.container-searchentry .searchbar::-webkit-input-placeholder{font-family:"HelveticaNeueeTextPro-Roman",arial,sans-serif}.container-searchentry .searchbar:-moz-placeholder{font-family:"HelveticaNeueeTextPro-Roman",arial,sans-serif}.container-searchentry .searchbar::-moz-placeholder{font-family:"HelveticaNeueeTextPro-Roman",arial,sans-serif}.container-searchentry .searchbar:-ms-input-placeholder{font-family:"HelveticaNeueeTextPro-Roman",arial,sans-serif}.container-searchentry ::-ms-clear{display:none}.container-searchentry .clear-button{background:url("https://images1.mcmaster.com/init/gfx/searchBoxClearButtonLightGray.svg?ver=1647247808");background-position:center;background-repeat:no-repeat;background-size:contain;cursor:pointer;height:12px;position:absolute;top:10px;right:45px;width:12px}.container-searchentry .clear-button.inactive{display:none}.container-searchentry .VerticalSeprt{background:url("https://images1.mcmaster.com/init/gfx/searchBoxVerticalSeparatorDefault.svg?ver=1647247808");background-position:center;background-repeat:no-repeat;background-size:contain;height:14px;position:absolute;top:9px;right:35px;width:1px}.container-searchentry .VerticalSeprt.inactive{display:none}.container-searchentry .searchbar-button{line-height:1;position:relative;top:0;left:-28px;display:inline-block;height:20px;width:20px;text-indent:-5000px;border:0;background:url("https://images1.mcmaster.com/init/gfx/searchIconRefreshedLightGray.svg?ver=1647247808");background-repeat:no-repeat;background-position:center;background-size:16px 16px;-webkit-appearance:none;padding-bottom:1px}.container-searchentry .tab-inactive .searchbar-button:focus{cursor:pointer;border:0;outline:0;background:url("https://images1.mcmaster.com/init/gfx/searchIconLightGray.svg?ver=1541545400");background-repeat:no-repeat;background-position:center;background-size:10px 12px;-webkit-appearance:none}.container-masthead{background-color:#fff;border-bottom:2px solid #fed700;box-shadow:0 7px 0 0 #fff;left:0;min-width:525px;padding-bottom:5px;position:absolute;top:0;-webkit-transition:height .3s,-webkit-transform .5s;transition:height .3s,transform .5s;width:100%;z-index:9999}@media screen and (max-width:768px){.container-masthead{height:97px}}@media screen and (min-width:769px) and (max-width:1249px){.container-masthead{height:73px}}@media screen and (min-width:1250px){.container-masthead{height:73px}}.list-masthead-headers{position:absolute;top:60px;right:0;height:18px;-webkit-transition:top .3s,left .3s,right .3s,padding .3s;transition:top .3s,left .3s,right .3s,padding .3s}@media screen and (max-width:768px){.list-masthead-headers{top:82px;left:-1px}}@media screen and (min-width:1250px){.list-masthead-headers{top:28px;right:0}}@media print{.masthead-nav-ul{display:none}}.shell-promotionalbannercontainer{height:0;width:100%;position:absolute}@media screen and (max-width:768px){.shell-promotionalbannercontainer{margin-top:104px}}@media screen and (min-width:769px) and (max-width:1249px){.shell-promotionalbannercontainer{margin-top:80px}}@media screen and (min-width:1250px){.shell-promotionalbannercontainer{margin-top:81px}}.shell-contentcontainer{position:absolute;bottom:20px;left:0;width:100%;-webkit-transition:top .3s,left .3s,right .3s,padding .3s,-webkit-transform .5s;transition:top .3s,left .3s,right .3s,padding .3s,transform .5s}@media screen and (max-width:768px){.shell-contentcontainer{top:109px}}@media screen and (min-width:769px) and (max-width:1249px){.shell-contentcontainer{top:85px}}@media screen and (min-width:1250px){.shell-contentcontainer{top:85px}}@media screen and (min-width:792px) and (max-width:980px){.bannerMode .shell-contentcontainer{top:121px}}@media screen and (min-width:981px) and (max-width:1249px){.bannerMode .shell-contentcontainer{top:125px}}@media screen and (min-width:1250px){.bannerMode .shell-contentcontainer{top:129px}}@media screen and (max-width:768px){.wrapper-ordernotiflines{right:auto}}@media screen and (max-width:768px){.wrapper-ordernotif--generalmessage{right:0}}#BrowseCatalog_ButtonCntnr{display:inline-block;position:absolute;left:12px;top:-24px;-webkit-transition:top .3s,-webkit-transform .5s;transition:top .3s,transform .5s}@media screen and (min-width:769px){#BrowseCatalog_ButtonCntnr{top:16px}}.shell-layout-logo-container{position:absolute;left:11px;bottom:52px;width:auto;-webkit-transition:bottom .3s,-webkit-transform .5s;transition:bottom .3s,transform .5s}@media screen and (min-width:769px){.shell-layout-logo-container{bottom:3px}}.shell-layout-search-entry-container{position:absolute;bottom:8px;left:24px;right:234px;-webkit-transition:left .3s,top .3s,-webkit-transform .5s;transition:left .3s,top .3s,transform .5s}@media screen and (min-width:769px){.shell-layout-search-entry-container{left:265px;margin-right:auto;max-width:700px}}@media screen and (min-width:1230px){.shell-layout-search-entry-container{margin-left:auto;right:265px}}.shell-layout-search-entry-container .suggestions-layout{left:0;right:0;width:auto}.cstMode .shell-layout-search-entry-container .suggestions-layout{width:auto!important}.shell-layout-search-entry-container>.container-searchentry{position:static;width:auto;white-space:nowrap}.cstMode .shell-layout-search-entry-container>.container-searchentry{left:auto!important;top:auto!important;width:auto!important}.masthead-top-right{position:absolute;right:24px;top:14px;-webkit-transition:right .2s;transition:right .2s}.cstMode .masthead-top-right{right:249px}.shell-layout-masthead-nav-container{position:absolute;right:24px;top:70px;width:auto;-webkit-transition:top .3s,-webkit-transform .5s;transition:top .3s,transform .5s}@media screen and (min-width:769px){.shell-layout-masthead-nav-container{top:46px}.cstMode .shell-layout-masthead-nav-container{top:55px}}@media screen and (min-width:1250px){.cstMode .shell-layout-masthead-nav-container{top:55px}}#Shell_BottomNavWebPart_Cntnr{z-index:400;-webkit-text-size-adjust:none}.WebToolsetWebPart_Cntnr{-webkit-transition:width .1s;transition:width .1s}.WebToolsetWebPart_Cntnr.toolset-sticky{position:-webkit-sticky;position:sticky;top:0}.homepage-nav-and-categories-container{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.homepage-nav{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:-webkit-sticky;position:sticky;top:0;border-style:none solid none none;border-width:1px;border-color:#CCC;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-flex-basis:195px;-ms-flex-preferred-size:195px;flex-basis:195px;padding-right:5px;overflow-y:auto}@media screen and (max-width:768px){.homepage-nav{max-height:calc(100vh - 109px - 25px)}}@media screen and (min-width:769px) and (max-width:1249px){.homepage-nav{max-height:calc(100vh - 85px - 25px)}}@media screen and (min-width:1250px){.homepage-nav{max-height:calc(100vh - 85px - 25px)}}.homepage-nav-hidden{display:none}.homepage-categories{padding-left:20px;min-width:0;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1}.homepage-categories-hpnav-hidden{padding-left:10px}
+
+</style>
+<script data-deferred="mcm-init" data-mcm-hash-id="5">
+(function(){
+window.mPageEmbeddedFiles=window.mPageEmbeddedFiles||{};var f=window.mPageEmbeddedFiles;f['cmnstyle.css']=1;f['shelllayout.css']=1;f['shellinitialcontent.css']=1;f['homepagewebpart.generated.init.css']=1;f['homepagewebpartlayout.css']=1;f['homepagenavwebpartlayout.css']=1;f['webtoolsetwebpartlayout.css']=1;f['bottomnavwebpartlayout.css']=1;f['init.css']=1;})();
+
+</script>
+    
+    
+<meta http-equiv="Content-Security-Policy" content="default-src *.mcmaster.com blob:; child-src https://intercom-sheets.com https://www.intercom-reporting.com https://www.youtube.com https://player.vimeo.com https://fast.wistia.net; connect-src *.mcmaster.com wss: https://api.intercom.io https://api-iam.intercom.io https://api-ping.intercom.io https://nexus-websocket-a.intercom.io https://nexus-websocket-b.intercom.io wss://nexus-websocket-a.intercom.io wss://nexus-websocket-b.intercom.io https://uploads.intercomcdn.com https://uploads.intercomusercontent.com; font-src *.mcmaster.com data: https://js.intercomcdn.com http://fonts.intercomcdn.com; frame-src *.mcmaster.com www.youtube.com data:; img-src *.mcmaster.com http://hello.myfonts.net https://hello.myfonts.net http://fast.fonts.net https://fast.fonts.net data: blob: https://js.intercomcdn.com https://static.intercomassets.com https://downloads.intercomcdn.com https://uploads.intercomusercontent.com https://gifs.intercomcdn.com https://video-messages.intercomcdn.com https://messenger-apps.intercom.io https://*.intercom-attachments-5.com https://*.intercom-attachments-6.com https://*.intercom-attachments-9.com; media-src *.mcmaster.com blob: https://js.intercomcdn.com; object-src *.mcmaster.com blob:; style-src *.mcmaster.com 'unsafe-inline'; worker-src *.mcmaster.com blob:; script-src 'report-sample' *.mcmaster.com *.int.mcmaster.com 'unsafe-inline' https://app.intercom.io https://widget.intercom.io https://js.intercomcdn.com 'sha256-misf/hDxOGaMIMWPGJefRxxBAESjqlvcX2heooQw5EU=' 'sha256-7IIz1TY/NjoDWahD8pMNeb9WKWu/RrCfgGKVRjY481c=' 'sha256-YTpjNLb7dvTrx3/24WERcIsfaoG846riBWYkgwJh3qI=' 'sha256-EMUfW2fWgriS2xhz43LExP9qP25DR3nryDp90ifkynE=' 'sha256-YOzSMeLrMFt+z3C283yOBrbAaDxYMHTwHrweqIRYIk4=' 'sha256-ejNjGOUABzh29e46NbhkbaqA3/aXaZoBA/ScztlUGNE=' 'sha256-LiUOc3MJ3DRqTEzPwCF5eSVhnKBlgsS7Gw3otsi/PPo=' 'sha256-FRPGnHM37vOQpc3TjuNukVJ6RN2M73M+cdDdOPzYBo0=' 'sha256-dedblW5crqgYjIvejZMCv8oD+A7OO1ECft8KAStSkyo=' 'sha256-MGu25R7KfIuct/XykbjGUqP0VbADp7rezxDKGdicZtg=' 'sha256-l091UXiynOBe5Bham7pgQIwIoi0sDaVjJnWUMCG3wl4=' 'sha256-Na75AkgmqRrQfmBKJo5vmfY4w8mB6h4uXJ3EOkV5BBk=' 'sha256-B6KZSTNev6MYr3qvZbE+n8LUDWUZ5tF2Wvlgarzq8CM=' 'nonce-d2WYpx8Q8cs='; report-uri /ContentSecurityPolicy.aspx"><link rel="preload" data-deferred="mcm-init" href="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_8c629616c691b92dcc4db53f54908277.js?files=NKNS&amp;mcmsecr=true" as="script" type="text/javascript"><link rel="preload" data-deferred="mcm-init" href="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_26e82409da49a1bedae0fe7230db3792.js?files=cbcWcTcZcacRYFcYcMYHNNNQZUaICGBxASByB3B4C2CBB2B1&amp;mcmsecr=true" as="script" type="text/javascript"><link rel="preload" data-deferred="mcm-init" href="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_0b78903f2bfe45fd9f56b5b65cfdecf5.js?files=WUSbSZSfShScSoSWSYSlSaSjYLSVYITISeSqWgWOWqWsWkWlWoWiWZb9WbWWWTW2RkRmSAWYW6XBXDaGWdWcWebQXfYCXwX2X1XpXnXgXhXkXiXqXlXmXuXyXsXtX9X6X8X0YAUKUMUTUIW0XYXXcEWRcCbTbVXIYJW4S9RRbpUgb5aUV5a9WGRaRcU8ara6abanVBU0VDZ1RFRJRMRZRfRhTeRnRpRsRvUAUCSyTTR5R7R9UaZGYrStY2TGSTSNTgS7TAT7T9Z5UcUeUjUqVXU7VRVgVhVjZNZaZeRTcKbRaZRVRXZuZwZoZqZsZOZyaNaPU4S5ata2SRSPZiSLSJZkbmajUEQuQvQsbLbNbFbHbJbDbCbAYlagbXbibgbebcbabYV0V8WDWBWIWKTCVJXKXGZKWuWwUOYYb7SwaBVvVtcBZIZcapTEUkUzUoUuU6cIVbVLVNVPVZVUavaxazVmTiZ3Q9UWVHa4ZmaQRORPYTAIAMAEAQCrC9C5CnaiZ0CyC1AATZCdCeCcCtBgBeCwCuNVC0DFDHDJDDDBb1R3TX&amp;mcmsecr=true" as="script" type="text/javascript"><link rel="stylesheet" data-deferred-href="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_80aa2b5dcd2d200d098f46b3e8c6eef0.css?files=DTCcCsECDDEQCrCqEBCRDBCHCMDEDHCfDbDRCxDSCICnDIDMDJCXDd&amp;mcmsecr=true" data-deferred="mcm-init" href="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_80aa2b5dcd2d200d098f46b3e8c6eef0.css?files=DTCcCsECDDEQCrCqEBCRDBCHCMDEDHCfDbDRCxDSCICnDIDMDJCXDd&amp;mcmsecr=true"><link rel="preload" data-deferred="mcm-init" href="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_80aa2b5dcd2d200d098f46b3e8c6eef0.css?files=DTCcCsECDDEQCrCqEBCRDBCHCMDEDHCfDbDRCxDSCICnDIDMDJCXDd&amp;mcmsecr=true" as="style" type="text/css"><link rel="stylesheet" data-deferred-href="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_9949124c5450ff97e55329f3f1b89e91.css?files=DyD5CLCNEGEHEFC1D6CJCMCHCOC2C3C4DFCyDUDcD7&amp;mcmsecr=true" data-deferred="mcm-init" href="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_9949124c5450ff97e55329f3f1b89e91.css?files=DyD5CLCNEGEHEFC1D6CJCMCHCOC2C3C4DFCyDUDcD7&amp;mcmsecr=true"><link rel="preload" data-deferred="mcm-init" href="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_9949124c5450ff97e55329f3f1b89e91.css?files=DyD5CLCNEGEHEFC1D6CJCMCHCOC2C3C4DFCyDUDcD7&amp;mcmsecr=true" as="style" type="text/css"><script data-deferred="mcm-init" data-deferred-src="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_8c629616c691b92dcc4db53f54908277.js?files=NKNS&amp;mcmsecr=true" src="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_8c629616c691b92dcc4db53f54908277.js?files=NKNS&amp;mcmsecr=true"></script><script data-deferred="mcm-init" data-deferred-src="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_26e82409da49a1bedae0fe7230db3792.js?files=cbcWcTcZcacRYFcYcMYHNNNQZUaICGBxASByB3B4C2CBB2B1&amp;mcmsecr=true" src="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_26e82409da49a1bedae0fe7230db3792.js?files=cbcWcTcZcacRYFcYcMYHNNNQZUaICGBxASByB3B4C2CBB2B1&amp;mcmsecr=true"></script><script data-deferred="mcm-init" nonce="d2WYpx8Q8cs=">
+    function cspThrottleFunc(limit) {
+        var reqCount = 0;
+        return function (event) {
+            var cspReportMapping = {
+                'documentURI': 'document-uri', 'referrer': 'referrer',
+                'violatedDirective': 'violated-directive', 'effectiveDirective': 'effective-directive',
+                'originalPolicy': 'original-policy', 'disposition': 'disposition',
+                'blockedURI': 'blocked-uri', 'lineNumber': 'line-number',
+                'columnNumber': 'column-number', 'sourceFile': 'source-file',
+                'statusCode': 'status-code', 'sample': 'script-sample'
+            };
+            if (reqCount <= limit) {
+                cspjson = { 'csp-report': {} };
+                for (var i = 0; i < Object.keys(cspReportMapping).length; i++) {
+                    var tempKey = Object.keys(cspReportMapping)[i];
+                    if (event[tempKey]) {
+                        cspjson['csp-report'][cspReportMapping[tempKey]] = event[tempKey];
+                    }
+                }
+                var xhr = new XMLHttpRequest();
+                xhr.open('POST', '/ContentSecurityPolicy.aspx', true);
+                xhr.setRequestHeader('content-type', 'application/csp-report');
+                xhr.send(JSON.stringify(cspjson));
+                reqCount++
+            }
+        }
+    }
+    document.addEventListener('securitypolicyviolation', cspThrottleFunc(10000));
+</script><script data-deferred="mcm-init" nonce="d2WYpx8Q8cs=">
+
+
+    window.McMasterCom = {};
+    window.McMaster = {};
+
+    window.GetMcMaster = function () {
+        return McMaster;
+    }
+
+    window.GetMcMasterCom = function () {
+        return McMasterCom;
+    }
+
+</script><script data-deferred="mcm-init" nonce="d2WYpx8Q8cs=">  window.McMaster.CssMap = '{"ToOrdLbl":"aa","AlsoAvailLbl":"ab","AddlInfoLbl":"ac","EmphasizedTxt":"ad","Fraction":"ae","SpecChoiceFraction":"af","EmphasizedTxt2":"ag","SecondaryLnk":"ai","ImgCaptionCntnr":"aj","ImgCaption":"ak","ImgSlctd":"al","floated":"am","clear":"an","clearMargin":"ao","verticalGutter":"ap","smallVerticalGutter":"aq","largeVerticalGutter":"ar","hugeVerticalGutter":"as","xLargeVerticalGutter":"at","horizontalGutter":"au","smallHorizontalGutter":"av","largeHorizontalGutter":"aw","xLargeHorizontalGutter":"ax","listItmGutter":"ay","ImageCell":"az","SubPrsnttnCell":"ba","PrsnttnCell":"bb","imgPadding":"bc","subPrsnttnPadding":"bd","prsnttnPadding":"be","PrsnttnSecondaryHdrCntnr":"bf","PrsnttnSecondaryNm":"bg","QtyInpBx":"bh","QtyInp":"bi","AddToOrdBtn":"bj","PartNbr":"bk","QtyErr":"bl","OrdConf":"bm","AddToOrdFrstCol":"bn","RelItmLnk":"bo","AttrDivider":"bp","GroupedAttrRow":"bq","ParAttrNm":"br","NormalAttrRow":"bs","ChldAttrNm":"bt","AttrWithBottomPadding":"bu","StkMsg":"bv","specWarningMsg":"bw","SpecTbl":"bx","SpecTblAttrCell":"by","SpecTblValCell":"bz","SpecTblAndSecondaryDatTbl":"ca","SecondaryDatTbl":"cb","AddtnlSpecCell":"cc","WrappedCell":"cd","AttrCntnr":"ce","customTxtBx":"cf","OtherValCntnr":"cg","OtherValInpBx":"ch","bold":"ci","AttrLstItm":"cj","AttrSpacing":"ck","AddtnlCntntLnk":"cl","PrintLnk":"cm","PrintLnkImg":"cn","Choices":"co","DropDown":"cp","AttrLstItmSlctd":"cq","CADLayout_CADDatCntnr":"cr","CADLayout_CADDatCntnr_Right":"cs","CADImgCaptionTxt":"ct","CADLayout_Left":"cu","CADLayout_Disclaimer":"cv","CADThumbnailCntnr":"cw","CADImgCaptionCntnr":"cy","CADSingleImgCaptionCntnr":"cz","CADImgCaptionCntnr_NoHover":"db","CadLayout_DwnldOptsCntnr":"dc","CadWebPart_3DMdlCntnr":"dd","CadSaveBtn":"de","StackedCadSave":"df","CadDwnldOpts":"dg","cadToolsLarge":"dh","CadOpt":"di","CadOptSlctd":"dj","OrdToolsCntnr":"dk","SideBySideOrdToolsCntnr":"dl","specCntnr":"dm","AddToOrd":"dn","AddToOrdMsgs":"do","TextInfoCntnr":"dp","SideBySideTextInfoCntnr":"dq","StackedCadPrint":"dr","SideBySideCadPrint":"ds","AddToOrdPrntCntnr":"dt","SpanRow":"du","ItmTblMedPivotSpace":"dv","ItmTblMaxPivotSpace":"dw","ItmTblContentCell":"dx","ItmTblRow_Hover":"dy","TouchItmTblContentCell":"dz","ItmTblCellSpec":"ea","ItmTblCellPartNbr":"eb","ItmTblCellPrce":"ec","ItmTblImgCell":"ed","ItmTblImgCellCenter":"ee","ItmTblImg":"ef","ItmTblPivotImgCell":"eg","ItmTblLnk":"eh","ItmTblLnkImg":"ei","ItmTblLnkWthImg":"ej","NoWrapCell":"ek","ItmTblAllRuleContentCell":"el","TouchItmTblAllRuleContentCell":"em","ItmTblHiddenCell":"en","ItmTblCellIndentPivotNone":"eo","ItmTblCellIndentPivotMin":"ep","ItmTblCellIndentPivotMed":"eq","ItmTblCellIndentPivotMax":"er","ItmTblColSpaceSpec":"es","ItmTblColSpaceSpecBefrPartNbr":"et","ItmTblColSpaceRelSpec":"eu","ItmTblColSpaceRelSpecEnd":"ev","ItmTblColSpaceRelSpecEndBefrPartNbr":"ew","ItmTblColSpacePartNbr":"ex","ItmTblColSpacePrce":"ey","ItmTblColSpacePrceHorizPivotEnd":"ez","ItmTblColSpacePrceHorizPivotBefrPartNbr":"fa","ItmTblColSpacePrceTblEnd":"fb","ItmTblColSpacePrceAftrPartNbr":"fc","ItmTblColSpaceInlnOrdFiller":"fd","ItmTblColSpaceDisplTxt":"fe","ItmTblColSpaceUm":"ff","ItmTblDigitAlign0":"fg","ItmTblDigitAlign1":"fh","ItmTblDigitAlign2":"fi","ItmTblDigitAlign3":"fj","ItmTblDigitAlign4":"fk","ItmTblDigitAlign5":"fl","ItmTblDigitAlign6":"fm","ItmTblDigitAlignX0":"fn","ItmTblDigitAlignX1":"fo","ItmTblDigitAlignX2":"fp","ItmTblDigitAlignX3":"fq","ItmTblDigitAlignX4":"fr","ItmTblDigitAlignX5":"fs","ItmTblDigitAlignX6":"ft","ItmTblColHdrGrp":"fu","ItmTblColHdrBracket":"fv","ItmTblSingleColSuperHdrCell":"fw","ItmTblColSuperHdrAlign":"fx","ItmTblSuperHdrCell":"fy","ItmTblColHdrBracketTxt":"fz","ItmTblColSuperHdr":"ga","ItmTblColSuperHdrDeflt":"gb","wbr":"gc","ItmTblColSubHdr":"gd","ItmTblColHdrPriceInterior":"ge","ItmTblColHdrPrice":"gf","ItmTblColHdrSpecEnd":"gg","ItmTblColHdrEndPrice":"gh","PivotHdr":"gi","ItmTblBaseHdrNoBorderCell":"gj","ItmTblBaseHdrBorderCell":"gk","ItmTblSubHdrBorderCell":"gl","ItmTblColBaseHdr":"gm","ItmTblColTblSubHdr":"gn","ItmTblColBaseHdrNoPivotIndent":"go","ItmTblColBaseHdrRelSpecNoPivotIndent":"gp","ItmTblColBaseHdrMinPivotIndent":"gq","ItmTblColBaseHdrRelSpecMinPivotIndent":"gr","ItmTblColBaseHdrMedPivotIndent":"gs","ItmTblColBaseHdrRelSpecMedPivotIndent":"gt","ItmTblColBaseHdrMaxPivotIndent":"gu","ItmTblColBaseHdrRelSpecMaxPivotIndent":"gv","ItmTblColBaseHdrSpecInterior":"gw","ItmTblColBaseHdrRelSpec":"gx","ItmTblColBaseHdrSpecEnd":"gy","ItmTblColBaseHdrSpecTblEnd":"gz","ItmTblColBaseHdrPriceInterior":"ha","ItmTblColSubHdrPriceInterior":"hb","ItmTblColBaseHdrEndPrice":"hc","ItmTblColSubHdrEndPrice":"hd","ItmTblColBaseHdrPrice":"he","ItmTblColSubHdrPrice":"hf","ItmTblColBaseHdrMultiPriceInteriorEnd":"hg","ItmTblColSubHdrMultiPriceInteriorEnd":"hh","ItmTblSubHdrCell":"hi","ItmTblSubHdrNoBorderCell":"hj","ItmTblUM":"hk","ItmTblPivot":"hl","ItmTblPivotWthImg":"hm","ItmTbl":"hn","SecondaryTbl":"ho","SecondaryDatTblCntnr":"hp","ItmTblFiller":"hq","ItmTblColMinWdthCntnr":"hr","ItmTblFirstFootNote":"hs","ItmTblFootnoteSymbLeftPad":"ht","ItmTblFootnoteTxt":"hu","ItmTblStdBoxSize":"hv","ItmTblMedPivotIndent":"hw","ItmTblMaxPivotIndent":"hx","SideBySideTbl":"hy","ItmTblGrp":"hz","ItmTblFooter":"ia","ItmTblFrstFooterRow":"ib","SubHead":"ic","SuperLbl":"id","SuperTblLbl":"ie","AllRulesSuperTblLbl":"if","SubTblLbl":"ig","SubLbl":"ih","Lbl":"ii","TblLbl":"ij","ItmTblPivotImgHdrCell":"ik","ItmTblPivotFillerRow":"il","ItmTblPivotFillerCell":"im","ItmTblPartNbrSlctd":"in","LandingPage_ValImg":"io","GenInfoLandingPageCntnr":"ip","LandingPage_DeepLnksCntnrIndent":"iq","Touch_LandingPage_DeepLnkVal":"ir","LandingPage_DeepLnkValPadding":"is","LandingPage_ImgBottom":"it","LandingPage_ValImgCaptionTxt":"iu","ValPrsnttn_LeftCol":"iv","LandingPage_SideBySideTxtPadding":"iw","LandingPage_ComplexStackedPaddingCell":"ix","LandingPage_ComplexStackedDeepLnks":"iy","LandingPage_ComplexStackedTop":"iz","LandingPage_ComplexStackedImg":"ja","LandingPage_StackedComplexImg":"jb","LandingPage_SideBySideImgSpacing":"jc","LandingPg_AttrLabel":"jd","LandingPg_AttrShow":"je","LandingPg_AttrTitleSpacing":"jf","SpecSrch_Cntnr":"jg","SpecSrch_Inner":"jh","SpecSrch_Toggle":"ji","SpecSrch_ToggleBtn":"jj","SpecSrch_Cntnr_Hidden":"jk","SpecSrch_Cntnr_Display":"jl","SpecSrch_PaneBtn":"jm","SpecSrch_PaneBtn_Cntnr":"jn","ProdPageContent":"jo","DynamicPage":"jp","PrsnttnNm":"jq","PrsnttnBulletedList":"jr","PrsnttnBulletedListItm":"js","PrsnttnCpy ":"jt","Prsnttn_SubHead":"ju","CADPrsnttnCpy":"jv","Prsnttn_CloseLnk":"jw","Prsnttn_CADImg":"jx","SubPrsnttnCntnrDiv":"jy","FullPrsnttn":"jz","fullPrsnttnVerticalGutter":"ka","AbbrPrsnttn":"kb","AbbrPrsnttn_PrsnttnRul":"kc","AbbrPrsnttn_PrsnttnHdrCntnr_Side":"kd","AbbrPrsnttn_PrsnttnNm":"ke","AboutBox":"kf","AbbrGenInfo":"kg","FullGenInfo":"kh","AbbrGenInfo_PrsnttnNm":"ki","AbbrGenInfoTblGrp_TblHdr":"kj","AbbrGenInfoTblGrp":"kk","FullGenInfo_Subhead":"kl","ToggleLnk":"km","GroupPrsnttn_AbbrPrsnttn":"kn","GroupPrsnttn_PrsnttnNm":"ko","AltImgCopyStyle":"kp","InLnOrdWebPart_TopSpacing":"kt","InlnOrdSpec_AttrTitleSpacing":"ku","InLnOrdWebPartLayout_OtherInpBx":"kv","InLnOrdWebPartLayout_OtherInpBxCntnr":"kw","InLnOrdWebPartLayout_OtherChoice":"kx","InLnOrdSpecSrch_AttrLabel":"ky","SpecSrch_AttrHide":"kz","SpecSrch_AttrImgSpacing":"lb","SpecSrch_AttrLabel":"lc","SpecSrch_AttrChldLabel":"ld","SpecSrch_AttrChldLabelIndent":"le","SpecSrch_CompositeTblSpacing":"lf","SpecSrch_CompositeTblRowRules":"lg","SpecSrch_AttrCompositeTblChldLabel":"lh","SpecSrch_CaptionRightSide":"lj","SpecSrch_ChldAttrMargin":"lk","SpecSrch_ChldAttrTbl":"ll","SpecSrch_ChldAttrValTopAlign":"lm","SpecSrch_ChldCompositeAttrTbl":"ln","SpecSrch_CntxtSrchBx":"lo","SpecSrch_CntxtSrchLeftIndentHdr":"lp","SpecSrch_CntxtSrchRghtIndentHdr":"lq","SpecSrch_CompositeChldAttr":"lr","SpecSrch_DropDownMenuHidden":"ls","SpecSrch_DropDownMenuVisible":"lt","SpecSrch_DropDownCntnr":"lu","SpecSrch_DropDownBtn":"lv","SpecSrch_Fraction":"lw","SpecSrch_FrctnRightAlign":"lx","SpecSrch_ImgBottomAlign":"ly","SpecSrch_ImgTopAlign":"lz","SpecSrch_ImgCenterAlign":"ma","SpecSrch_ImgLeftAlign":"mb","SpecSrch_TxtAlignCenter":"mc","SpecSrch_StackedTxtPadding":"md","SpecSrch_TxtAlignLeft":"me","SpecSrch_IndentLeftChldAttr":"mf","SpecSrch_IndentLv1":"mg","SpecSrch_IndentLvChld":"mh","SpecSrch_IndentRightChldAttr":"mi","SpecSrch_GenInfoLnk":"mj","SpecSrch_GenInfoLnk_Slctd":"mk","SpecSrch_GenInfoLnkPadding":"ml","SpecSrch_ChldAttrGenInfoLnkPadding":"mm","SpecSrch_GutterSeparatorTop":"mn","SpecSrch_GutterSeparatorBottom":"mo","SpecSrch_GutterValueTop":"mp","Touch_SpecSrch_GutterValueTop":"mq","SpecSrch_GutterValueBottom":"mr","Touch_SpecSrch_GutterValueBottom":"ms","SpecSrch_MoreLnk":"mt","SpecSrch_PaneSpacing":"mv","SpecSrch_ProgRevealBottomPadding":"mw","SpecSrch_ScrollCntnr":"mx","SpecSrch_ScrollCntnrSpacing":"my","SpecSrch_ScrollTblSpacing":"mz","SpecSrch_SideBySideTxtPadding":"na","SpecSrch_StackedImgSpacing":"nb","SpecSrch_SideBySideImgSpacing":"nc","SpecSrch_SrchInp":"nd","SpecSrch_TblHdrLbl":"ne","SpecSrch_TblSrchInpSpacing":"nf","SpecSrch_Txt":"ng","SpecSrch_SideBySideSpacing":"nh","SpecSrch_TxtAlignTop":"ni","SpecSrch_TxtAlignMiddle":"nj","SpecSrch_TxtLeftAlign":"nk","SpecSrch_TitleSpcr":"nl","SpecSrch_TitlePlaceHolder":"nm","SpecSrch_WarningMsg":"nn","SpecSrch_DigitAlign0":"no","SpecSrch_DigitAlign1":"np","SpecSrch_DigitAlign2":"nq","SpecSrch_DigitAlign3":"nr","SpecSrch_DigitAlign4":"ns","SpecSrch_DigitAlign5":"nt","SpecSrch_DigitAlign6":"nu","SpecSrch_DigitAlignX0":"nv","SpecSrch_DigitAlignX1":"nw","SpecSrch_DigitAlignX2":"nx","SpecSrch_DigitAlignX3":"ny","SpecSrch_DigitAlignX4":"nz","SpecSrch_DigitAlignX5":"oa","SpecSrch_DigitAlignX6":"ob", "SpecSrch_AttrSeparator":"oc", "HrefBlockCntnr":"od"}'; </script><script data-deferred="mcm-init" data-deferred-src="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_0b78903f2bfe45fd9f56b5b65cfdecf5.js?files=WUSbSZSfShScSoSWSYSlSaSjYLSVYITISeSqWgWOWqWsWkWlWoWiWZb9WbWWWTW2RkRmSAWYW6XBXDaGWdWcWebQXfYCXwX2X1XpXnXgXhXkXiXqXlXmXuXyXsXtX9X6X8X0YAUKUMUTUIW0XYXXcEWRcCbTbVXIYJW4S9RRbpUgb5aUV5a9WGRaRcU8ara6abanVBU0VDZ1RFRJRMRZRfRhTeRnRpRsRvUAUCSyTTR5R7R9UaZGYrStY2TGSTSNTgS7TAT7T9Z5UcUeUjUqVXU7VRVgVhVjZNZaZeRTcKbRaZRVRXZuZwZoZqZsZOZyaNaPU4S5ata2SRSPZiSLSJZkbmajUEQuQvQsbLbNbFbHbJbDbCbAYlagbXbibgbebcbabYV0V8WDWBWIWKTCVJXKXGZKWuWwUOYYb7SwaBVvVtcBZIZcapTEUkUzUoUuU6cIVbVLVNVPVZVUavaxazVmTiZ3Q9UWVHa4ZmaQRORPYTAIAMAEAQCrC9C5CnaiZ0CyC1AATZCdCeCcCtBgBeCwCuNVC0DFDHDJDDDBb1R3TX&amp;mcmsecr=true" src="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_0b78903f2bfe45fd9f56b5b65cfdecf5.js?files=WUSbSZSfShScSoSWSYSlSaSjYLSVYITISeSqWgWOWqWsWkWlWoWiWZb9WbWWWTW2RkRmSAWYW6XBXDaGWdWcWebQXfYCXwX2X1XpXnXgXhXkXiXqXlXmXuXyXsXtX9X6X8X0YAUKUMUTUIW0XYXXcEWRcCbTbVXIYJW4S9RRbpUgb5aUV5a9WGRaRcU8ara6abanVBU0VDZ1RFRJRMRZRfRhTeRnRpRsRvUAUCSyTTR5R7R9UaZGYrStY2TGSTSNTgS7TAT7T9Z5UcUeUjUqVXU7VRVgVhVjZNZaZeRTcKbRaZRVRXZuZwZoZqZsZOZyaNaPU4S5ata2SRSPZiSLSJZkbmajUEQuQvQsbLbNbFbHbJbDbCbAYlagbXbibgbebcbabYV0V8WDWBWIWKTCVJXKXGZKWuWwUOYYb7SwaBVvVtcBZIZcapTEUkUzUoUuU6cIVbVLVNVPVZVUavaxazVmTiZ3Q9UWVHa4ZmaQRORPYTAIAMAEAQCrC9C5CnaiZ0CyC1AATZCdCeCcCtBgBeCwCuNVC0DFDHDJDDDBb1R3TX&amp;mcmsecr=true"></script><script data-deferred="mcm-init">(function(){
+window.mPageEmbeddedFiles=window.mPageEmbeddedFiles||{};var f=window.mPageEmbeddedFiles;f['logowebpartlayout.css']=1;f['bottomnavwebpartlayout.css']=1;f['cmnstyle_deferred.css']=1;f['shelllayout_deferred.css']=1;f['homepagewebpartlayout_deferred.css']=1;f['webtoolsetwebpartlayout_deferred.css']=1;f['cmnstyle.secondary.css']=1;f['cmnstyle.dropdown.css']=1;f['shelllayout.print.css']=1;f['abovethefold.css']=1;f['homepagewebpart.generated.remainder.css']=1;f['layout/cmnstylelayout.css']=1;f['layout/prsnttnlayout.css']=1;f['incmplordswebpartlayout.css']=1;f['inlnordwebpartlayout.css']=1;f['cadwebpartlayout.css']=1;f['mastheadloginwebpartlayout.css']=1;f['loginwebpartlayout.css']=1;f['crtepswdwebpartlayout.css']=1;f['logoffusrctrlwebpartlayout.css']=1;f['layout/itmprsnttnwebpartlayout.css']=1;f['cmndropdown.css']=1;f['intermediatepagewebpartlayout.css']=1;f['landingpageelems.css']=1;f['intermediateprsnttnwebpartlayout.css']=1;f['android.smartbanner.css']=1;f['mobilebanner.css']=1;})();
+</script><script data-deferred="mcm-init">(function(){
+window.mPageEmbeddedFiles=window.mPageEmbeddedFiles||{};var f=window.mPageEmbeddedFiles;f['pagecntnrwebpartlayout.css']=1;f['prodpagewebpartlayout.css']=1;f['layout/prodpagelayout.css']=1;f['layout/specsrchlayout.css']=1;f['specsrchelems.css']=1;f['specsrchinteract.css']=1;f['specinfolayout.css']=1;f['dynamicpagewebpartlayout.css']=1;f['prsnttnwebpartlayout.css']=1;f['layout/itmtbl.css']=1;f['layout/prsnttnlayout.css']=1;f['layout/cmnstylelayout.css']=1;f['abbrprsnttnwebpartlayout.css']=1;f['fullprsnttnwebpartlayout.css']=1;f['generalinfolayout.css']=1;f['groupprsnttnwebpartlayout.css']=1;f['industrialinfowebpart.css']=1;f['ctlgpagewebpartlayout.css']=1;f['main.css']=1;f['mcm_react_main.css']=1;f['punchoutmode.css']=1;})();
+</script><script data-deferred="mcm-init" data-deferred-src="/trk/js/schema/1.3.329" src="/trk/js/schema/1.3.329"></script><script data-deferred="mcm-init" nonce="d2WYpx8Q8cs=">
+    (function () {
+
+
+    var xmlHttp = new XMLHttpRequest();
+
+    xmlHttp.onreadystatechange = function () {
+        if (this.readyState == 4) {
+            if (this.status == 412) {
+                window.location.reload(true);
+            } else {
+                    
+                var xmlHttpForToken;
+                try {
+                        
+                        xmlHttpForToken = new XMLHttpRequest();
+                    } catch (ex) {
+                        
+                    try {
+                        xmlHttpForToken = new ActiveXObject("Msxml2.XMLHTTP");
+                    } catch (ex) {
+                        try {
+                            xmlHttpForToken = new ActiveXObject("Microsoft.XMLHTTP");
+                        } catch (ex) {
+                            self.location.href = "/mcm/AjaxNotSupported.aspx";
+                        }
+                    }
+                }
+                xmlHttpForToken.open("POST", "/mv1733341401/tokenauthorization.aspx", true);
+                xmlHttpForToken.send();
+            }
+        }
+    }
+
+    xmlHttp.open("GET", "/mv1733341401/Vldt.aspx", true);
+    xmlHttp.send();
+
+
+    // To cache the homepage, we need a way to check that the customer's browser allows for local storage: 
+    //https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API#testing_for_availability
+
+    function storageAvailable(type) {
+    var storage;
+    try {
+        storage = window[type];
+        const x = "__storage_test__";
+        storage.setItem(x, x);
+        storage.removeItem(x);
+        return true;
+    } catch (e) {
+        return (
+        e instanceof DOMException &&
+        // everything except Firefox
+        (e.code === 22 ||
+            // Firefox
+            e.code === 1014 ||
+            // test name field too, because code might not be present
+            // everything except Firefox
+            e.name === "QuotaExceededError" ||
+            // Firefox
+            e.name === "NS_ERROR_DOM_QUOTA_REACHED") &&
+        // acknowledge QuotaExceededError only if there's something already stored
+        storage &&
+        storage.length !== 0
+        );
+    }
+    }
+
+    window.SetUsrData = function (respObj) {
+        for (var key in respObj) {
+            if (respObj.hasOwnProperty(key)) {
+                McMaster.SesnMgr.SetStVal(key, respObj[key]);
+            }
+        }
+        McMaster.MsgMgr.PubMsg(new McMaster.MsgMgrMsgs.UsrDataUpdtd(new McMaster.MsgMgr.Hdr()));
+    }
+
+    window.ShellASPX = {
+        PreShellLoadedFunc: function () {
+            var shellCachingNuclearOptionInvoked = false;
+            if (storageAvailable("localStorage")) {
+                var isMobileBrowser = window.localStorage.getItem("mobileBrowser");
+                var shellCachingEnabled = !shellCachingNuclearOptionInvoked && isMobileBrowser!=="true";
+            } else { 
+                var shellCachingEnabled = false
+            }
+
+
+        var SHELL_VERSION = '911638E4C8F7CCA9217A0604419C544C';
+   
+
+        var unregisterSwForNuclearOption = function (registrations) {
+            if (shellCachingNuclearOptionInvoked) {
+                return Promise["all"](
+                    registrations["map"](function (registration) {
+                        registration.unregister()["then"](function (result) {
+                            return result;
+                        });
+                    })
+                )
+            }
+        };
+
+        var trackUnregistrationResults = function (results) {
+            if (results && results.length > 0) {
+                var successfulUnregistrations = 0;
+                var unsuccessfulUnregistrations = 0;
+
+                for (var i = 0; i < results.length; i++) {
+                    if (results[i]) {
+                        successfulUnregistrations += 1;
+                    } else {
+                        unsuccessfulUnregistrations += 1;
+                    }
+                }
+
+                Cmn.TrkAct("nuclearOption=true&successfulUnregistrations=" + successfulUnregistrations
+                    + "&unsuccessfulUnregistrations=" + unsuccessfulUnregistrations,
+                    "ShellCaching");
+            }
+        };
+
+        var trackFirefoxShellCacheBugDetected = function (results) {
+            if (isFirefoxShellCacheBugDetected) {
+                Cmn.TrkAct("firefoxShellCacheBugDetected=true", "ShellCaching");
+            }
+        }
+
+        var cacheTheShell = function (cache) {
+            cache["match"]('/')
+            ["then"](function (response) {
+                if (response) {
+                
+                return true;
+            } else {
+                  
+                return cache.add('/');
+            } 
+        })["catch"](function (error) {
+            Cmn.TrkAct("shellPreCache=fail&error=" + error.toString(), "ShellCaching");
+        })
+        };
+
+        var reloadWindow = function () {
+            window.location.reload(true);
+        }
+
+    
+        var firefoxShellCacheBugDetected = function () {
+            var bugDetected = false;
+            if (Cmn.GetQSVal("SrchEntryWebPart_InpBox") !== "" &&
+                Cmn.GetQSVal("searchInput") === "" &&
+                window.location.pathname === "/" &&
+                Cmn.GetPlatformInfo() && Cmn.GetPlatformInfo().name && Cmn.GetPlatformInfo().name.toLowerCase() === "firefox") {
+                bugDetected = true;
+            }
+            return bugDetected;
+        }
+
+        var isFirefoxShellCacheBugDetected = firefoxShellCacheBugDetected();
+
+
+
+              
+        if ('caches' in window && (
+            shellCachingNuclearOptionInvoked ||
+            (shellCachingEnabled && SHELL_VERSION) ||
+            isFirefoxShellCacheBugDetected
+        )) {
+            var staleCache = false;
+            var deletionResults = [];
+
+            caches["keys"]()["then"](function (cacheNames) {
+
+                return Promise["all"](
+                    cacheNames["map"](function (cacheName) {
+                        if (shellCachingNuclearOptionInvoked ||
+                            (cacheName !== SHELL_VERSION) ||
+                            isFirefoxShellCacheBugDetected) {
+                            staleCache = true;
+                            return caches["delete"](cacheName);
+                        }
+                    })
+                )
+
+            })
+            ["catch"](function (error) { })
+            ["then"](function (results) {
+                deletionResults = results;
+
+                if ('serviceWorker' in navigator) {
+                    navigator.serviceWorker.getRegistrations()
+                    ["then"](unregisterSwForNuclearOption)
+                    ["then"](trackUnregistrationResults)
+                    ["then"](trackFirefoxShellCacheBugDetected)
+                    ["catch"](function (error) { })
+                    ["then"](function () {
+
+                        switch (true) {
+                            case staleCache && window.OriginalHref.includes("cache=false"):
+                                Cmn.TrkAct("action=avoidEndlessLoop", "ShellCaching");
+                                    
+                                    break;
+
+                                case staleCache && shellCachingNuclearOptionInvoked:
+                                    
+                                    Cmn.TrkAct("action=nuclearOption", "ShellCaching");
+                                    var newQs = '?cache=false&reason=noi&t=' + (new Date()).getTime() + location.search.substr(1);
+                                    window.location.href = location.pathname + newQs;
+                                    break;
+
+                                case staleCache && deletionResults.includes(false):
+                                    Cmn.TrkAct("action=staleCacheDeletionFailed", "ShellCaching");
+                                    
+                                    break;
+
+                                case staleCache:
+                                    
+                                    Cmn.TrkAct("action=staleCacheReload", "ShellCaching");
+                                    // Clear any uri stem and query parameters.
+                                    window.history.replaceState(null, null, "/");
+                                    if (isFirefoxShellCacheBugDetected) {
+                                        // Give trackFirefoxShellCacheBugDetected request time to complete as window.location.reload may abort the request.
+                                        setTimeout(reloadWindow, 200);
+                                    } else {
+                                        reloadWindow();
+                                    }
+                                    break;
+
+                                case shellCachingEnabled:
+                                    
+                                    caches.open(SHELL_VERSION).then(cacheTheShell);
+                                    break;
+
+                                default:
+                                    
+                                    break;
+                            }
+
+                        });
+                }
+            });
+        }
+
+
+        if (shellCachingEnabled && 'serviceWorker' in navigator && SHELL_VERSION) {
+            navigator.serviceWorker.register('/init/ServiceWorkerJS.aspx', {
+                scope: './'
+            }).then(function (registration) {
+                Cmn.TrkAct("serviceWorkerRegistration=success", "ShellCaching");
+            }, function (error) {
+                Cmn.TrkAct("serviceWorkerRegistration=fail&error=" + error.toString(), "ShellCaching");
+            });
+        }
+
+        if (window.performance && window.performance.setResourceTimingBufferSize) performance.setResourceTimingBufferSize(2000);
+
+        var McMaster = window.McMaster,
+            MsgMgr = McMaster.MsgMgr,
+            SesnMgr = McMaster.SesnMgr,
+            SetStVal = McMaster.SesnMgr.SetStVal,
+            StValDefs = McMaster.SesnMgr.StValDefs;
+
+        var shellDict = {"termsandconditionsenabledind":"true","termsandconditionspageenabledind":"true","addressbookenabled":"false","client_ip":"186.96.209.88","cstenabled":false,"ip_address_type":"external","volatileassetversion":"mv1733341401","stableassetversion":"mvC","currentactivetestsab":{"Tests":[{"type":"MagnetsIndustrialInfo","id":"magnets industrial info test07_01_2019","name":"Magnets Industrial Info Test","group":2,"conditions":{"srchRsltId":{"$in":[3815738403502]}},"startDate":"07_01_2019","endDate":"12_31_2030"},{"type":"SummarizeBySpecsPlastics","id":"plastics summarize by specs test05_05_2020","name":"Plastics Summarize by Specs Test","group":2,"conditions":{"srchRsltId":{"$in":[476913720204]}},"startDate":"05_05_2020","endDate":"01_01_2040"},{"type":"ProtectsFromExperimentalAttr","id":"protects from experimental attribute test09_30_2019","name":"Protects From Experimental Attribute Test","group":3,"conditions":{"srchRsltId":{"$in":[462954007970,3111105495877,6545841774506,8478179311497,2001310163167,9258992769719,7797006633113,5750174823484,6782425493977,4293556206130,5716559981042,5861588236444,9233042817575,9991168149193,7850448140716,612966590738,7462075508221,5567478306380,3870970243640,1979852838652,9947985537677,6035712288360,9843259619620,9957754305962,2315829954635,7515623071474,6298509744866,9984449075729,7571224607407,2479921913989,6442753798396,5083365355406,2213477406020,7642485417600,9951122590558,7531668586120,5826108836814,4962927452518,6771302701859,1240439898219,1774723583681,9953562818751,3406499978331,5126305851180,6152359900489,6204099973265,3839795434745,9960716945598,9648183517062,6255233248759,2412000817242,2311131597939,5895767954688,4595223406499,7011473694612,7768047328426,4623046722670,4627604000674,4220807871202,6891093190459,5656535560774,7325496309801,9988825048633,9607506120742,4823449357566,6182083033555,3880232797830,9938450125849,9815482778720,8602996725472,2981079122196,7885182589079,8471507662439,3554713714134,7728731755958,9966981109881,6600521928901,6573778797429,5819512610618,7207056219619,9994607896084,8449510300799,9912151873185,4054172186393,5612684473640,9070946448924,715196684335,9815793458626,7082230447176,8634226306055,9118538696194,9188663698158,9935147059863,6544280707041,6476911268714,4619011778134,5152188622417,6089518900342,4236194362035,6875032120319,2410182720109,9965833981208,9995602464802,9993857142966,9460098289094,8626326711347,9986842151059,9986979064795,2702196720427,9921630034568,9983518675138,2449673853201,9394307355338,6581950028224,9140267535485,8284771812582,8615465752914,9160471036710,9000343236520,3778105571398,9937514020908,3720821413183,9979099279318,8036842951746,7452882143959,9977877076730,1920224557018,5422500978094,8244888783710,1688180696017,5446040811376,6035243940195,2952558233055,5703539093569,9953031350196,2965404865106,9976129189101,1568047927682,5342994906043,9964254062267,5501767919414,9971136671322,1513055852713,2143074881302,1736889280929,9376436834609,9973225329891,6540468865876,9967658446838,2091607484295,7973304333491,4618884604590,8297860857889,9777923739668,2833791164472,7941856871508,6342183454533,9981058172052,6718113513653,9985205211891,9488054057083,4224488463031,9961884628560,9982493465907,4474411346903,9184251221632,5015078253833,5966788739549,9007897512699,7237765515781,4893496761299,5421791755293,6915126975588,4801200582193,9867215798029,9999556692923,1760417609426,9981411334239,9986261848604,6453888089286,4865116735347,2966299949110,9074527000576,9987582049612,8048245988986,6394035456734,9962882717678,9946419397458,8358313672822,541000574830,9978239566113,9956250075608,9973484177038,9927100022817,4443870537041,7349272194451,9935532594823,700930241568]}},"startDate":"09_30_2019","endDate":"01_01_2048"},{"type":"ProtectsFromExperimentalAttrUnrolled","id":"protects from experimental attribute unrolled test09_30_2019","name":"Protects From Experimental Attribute Unrolled Test","group":1,"conditions":{"srchRsltId":{"$in":[462954007970,3111105495877,6545841774506,8478179311497,2001310163167,9258992769719,7797006633113,5750174823484,6782425493977,4293556206130,5716559981042,5861588236444,9233042817575,9991168149193,7850448140716,612966590738,7462075508221,5567478306380,3870970243640,1979852838652,9947985537677,6035712288360,9843259619620,9957754305962,2315829954635,7515623071474,6298509744866,9984449075729,7571224607407,2479921913989,6442753798396,5083365355406,2213477406020,7642485417600,9951122590558,7531668586120,5826108836814,4962927452518,6771302701859,1240439898219,1774723583681,9953562818751,3406499978331,5126305851180,6152359900489,6204099973265,3839795434745,9960716945598,9648183517062,6255233248759,2412000817242,2311131597939,5895767954688,4595223406499,7011473694612,7768047328426,4623046722670,4627604000674,4220807871202,6891093190459,5656535560774,7325496309801,9988825048633,9607506120742,4823449357566,6182083033555,3880232797830,9938450125849,9815482778720,8602996725472,2981079122196,7885182589079,8471507662439,3554713714134,7728731755958,9966981109881,6600521928901,6573778797429,5819512610618,7207056219619,9994607896084,8449510300799,9912151873185,4054172186393,5612684473640,9070946448924,715196684335,9815793458626,7082230447176,8634226306055,9118538696194,9188663698158,9935147059863,6544280707041,6476911268714,4619011778134,5152188622417,6089518900342,4236194362035,6875032120319,2410182720109,9965833981208,9995602464802,9993857142966,9460098289094,8626326711347,9986842151059,9986979064795,2702196720427,9921630034568,9983518675138,2449673853201,9394307355338,6581950028224,9140267535485,8284771812582,8615465752914,9160471036710,9000343236520,3778105571398,9937514020908,3720821413183,9979099279318,8036842951746,7452882143959,9977877076730,1920224557018,5422500978094,8244888783710,1688180696017,5446040811376,6035243940195,2952558233055,5703539093569,9953031350196,2965404865106,9976129189101,1568047927682,5342994906043,9964254062267,5501767919414,9971136671322,1513055852713,2143074881302,1736889280929,9376436834609,9973225329891,6540468865876,9967658446838,2091607484295,7973304333491,4618884604590,8297860857889,9777923739668,2833791164472,7941856871508,6342183454533,9981058172052,6718113513653,9985205211891,9488054057083,4224488463031,9961884628560,9982493465907,4474411346903,9184251221632,5015078253833,5966788739549,9007897512699,7237765515781,4893496761299,5421791755293,6915126975588,4801200582193,9867215798029,9999556692923,1760417609426,9981411334239,9986261848604,6453888089286,4865116735347,2966299949110,9074527000576,9987582049612,8048245988986,6394035456734,9962882717678,9946419397458,8358313672822,541000574830,9978239566113,9956250075608,9973484177038,9927100022817,4443870537041,7349272194451,9935532594823,700930241568]}},"startDate":"09_30_2019","endDate":"01_01_2048"},{"type":"SummarizeBySpecsOtherBar","id":"summarize by specs with other bar test07_14_2020","name":"Summarize by Specs With Other Bar Test","group":3,"conditions":{"srchRsltId":{"$in":[476913720204]}},"startDate":"07_14_2020","endDate":"01_01_2040"},{"type":"SummarizeBySpecsPage","id":"summarize by specs test07_30_2020","name":"Summarize by Specs Test","group":2,"conditions":{"srchRsltId":{"$in":[5069306377488,7210129649181,4770024599991]}},"startDate":"07_30_2020","endDate":"01_01_2040"},{"type":"NavigateSpecSearch","id":"using navigate spec search across our entire offering04_20_2023","name":"using navigate spec search across our entire offering","group":2,"conditions":{"srchRsltId":{"$nin":[]}},"startDate":"04_20_2023","endDate":"04_20_2025"}]},"trkr_guid":"666acb866fda41d2805909130ff405c5","currentsurveys":[]};
+        var clientFeatures = {"FeatureHash":"5ce09e3f6075f4a0caa957a370f37397","ClientFeatures":{"DynamicContentCache_Feature_3":{"ShortName":"103","Value":false},"DynamicPartNumberSearch":{"ShortName":"104","Value":false},"PartNumberSearchABTest":{"ShortName":"386","Value":false},"SupplierPartNumberSearch":{"ShortName":"534","Value":true},"ComponentPartNumberSearch":{"ShortName":"58","Value":true},"PartNumberIpidDescriptionSearch":{"ShortName":"385","Value":true},"PartNumberInAddtlText":{"ShortName":"384","Value":true},"EMERGENCY_RESPONSE_PAGE_CLIENT":{"ShortName":"107","Value":false},"ActABLevelC":{"ShortName":"0","Value":true},"ActivitySpecABTest":{"ShortName":"11","Value":true},"ActivitySavedOrdersFeatureSet_Client":{"ShortName":"8","Value":true},"ActivityCurrentOrderImageSummary_Client":{"ShortName":"2","Value":true},"ActivityTableView":{"ShortName":"12","Value":true},"PerformanceTracing":{"ShortName":"390","Value":true},"ShowOrderChangeDiscovering":{"ShortName":"524","Value":false},"ProductUseSurvey":{"ShortName":"411","Value":false},"MobileBanner":{"ShortName":"227","Value":true},"DisableEndToEnd":{"ShortName":"84","Value":false},"DisablePFInferenceClient":{"ShortName":"89","Value":false},"ActivityImpersonation":{"ShortName":"5","Value":true},"ShowJobsToBeDoneSurvey":{"ShortName":"519","Value":false},"ContentTransitionManagerEndsFailedTraces":{"ShortName":"62","Value":false},"DisableFetchAhead":{"ShortName":"85","Value":false},"EnableUpdateControlsOnActivity":{"ShortName":"146","Value":false},"DecouplePayFromAddOnActivity":{"ShortName":"70","Value":false},"ShowNewNicknameAndMask":{"ShortName":"523","Value":true},"Client_DefendingMCM3":{"ShortName":"51","Value":true},"Client_SEO_Experiments2":{"ShortName":"52","Value":true},"CADAddIn_2":{"ShortName":"42","Value":false},"ExpandCCAddFormWhenOnboarding":{"ShortName":"150","Value":false},"FixAutoCompleteValidationStyling":{"ShortName":"153","Value":false},"ShowActivityCopyAndDeleteButton":{"ShortName":"510","Value":true},"Survey_GlobalActivation":{"ShortName":"543","Value":true},"Survey_Enclosures_1":{"ShortName":"540","Value":false},"Survey_Enclosures_2":{"ShortName":"541","Value":false},"Survey_New_Products_1":{"ShortName":"547","Value":false},"Survey_New_Products_2":{"ShortName":"548","Value":false},"Survey_Crowdsourcing_1":{"ShortName":"538","Value":false},"Survey_Fixtures_1":{"ShortName":"542","Value":false},"Survey_Raw_Materials_1":{"ShortName":"549","Value":false},"Survey_Raw_Materials_2":{"ShortName":"550","Value":false},"Survey_Medical_Devices_1":{"ShortName":"544","Value":false},"Survey_Miniature_Parts_1":{"ShortName":"545","Value":false},"DeliveryInfoPageClient":{"ShortName":"74","Value":true},"DisplayPromotionalBanner":{"ShortName":"95","Value":true},"ReactInlineOrdering":{"ShortName":"423","Value":false},"TrackPageInformation":{"ShortName":"570","Value":false},"DisableLowPriorityFetchAhead":{"ShortName":"87","Value":true},"LearnMoreAndCompareApplyFilterButton":{"ShortName":"195","Value":true},"FixFullPresentationImageListeners":{"ShortName":"154","Value":true},"SkipAboveTheFoldOptimizationRules":{"ShortName":"529","Value":false},"SuggestionAlgorithmTest":{"ShortName":"531","Value":false},"Chat":{"ShortName":"47","Value":true},"ChatForSpecificContentSecurityRoles":{"ShortName":"48","Value":true},"NavigatePlatform_Client_7":{"ShortName":"348","Value":true},"NavigatePlatform_Client_8":{"ShortName":"349","Value":true},"NavigatePlatform_Client_11":{"ShortName":"345","Value":false},"NavigatePlatform_Client_12":{"ShortName":"346","Value":true},"NavigatePlatform_Client_14":{"ShortName":"347","Value":false},"NavigateOrderingRelationships_Client_05":{"ShortName":"326","Value":true},"NavigateOrderingRelationships_Client_06":{"ShortName":"327","Value":false},"NavigateOrderingRelationships_Client_07":{"ShortName":"328","Value":false},"NavigateOrderingRelationships_Client_08":{"ShortName":"329","Value":false},"NavigateOrderingRelationships_Client_09":{"ShortName":"330","Value":false},"NavigateOrderingRelationships_Client_10":{"ShortName":"331","Value":false},"EnrollInTestsPostRequest":{"ShortName":"148","Value":true},"Survey_Mobile_Research_1":{"ShortName":"546","Value":false},"NavigatePilotFetchAhead":{"ShortName":"344","Value":true},"DisambiguateSuggestions":{"ShortName":"94","Value":false},"SearchSuggestionsFastTrackABTest":{"ShortName":"453","Value":false},"SearchSuggestionsCountABTest":{"ShortName":"452","Value":false},"SendTrackingSync":{"ShortName":"500","Value":true},"SupportNumbersDomains":{"ShortName":"535","Value":false},"pinnedCopy":{"ShortName":"391","Value":false},"ShowComparisonCopy":{"ShortName":"515","Value":false},"BackButtonFromProductDetail":{"ShortName":"37","Value":true},"BackToTopUpButton":{"ShortName":"38","Value":false},"BuildSystemConduitPilotTest":{"ShortName":"41","Value":false},"MobileOrderRemindersOptIn":{"ShortName":"251","Value":true},"ReactRenderedPresentations":{"ShortName":"424","Value":false},"SuppressSpecSearchImages":{"ShortName":"536","Value":false},"SearchSuggestionsAutocompleteABTest":{"ShortName":"451","Value":false},"TrackNewSuggestionsUITest":{"ShortName":"569","Value":true},"SearchSuggestionsPerformance":{"ShortName":"454","Value":false},"MobileDisplayTableCopy":{"ShortName":"232","Value":true},"ShowOtherProductsBelowTables":{"ShortName":"525","Value":false},"EndOfJourneySpringboard":{"ShortName":"147","Value":false},"TorqueWrenchesTileTableHybridPilotTest":{"ShortName":"561","Value":false},"UseDesktopSuggestionImages":{"ShortName":"587","Value":true},"UseImageServiceForContentCore":{"ShortName":"591","Value":false},"SuggestionsImagesTest":{"ShortName":"532","Value":false},"usebroadlandingpagedisplay":{"ShortName":"585","Value":false},"Ignore_Translation_Too_Long_Check":{"ShortName":"177","Value":true},"UseDynamicImageSwapping":{"ShortName":"588","Value":true},"Page_Feature_Tracking":{"ShortName":"380","Value":true},"UsePubElementServiceForBLPs":{"ShortName":"607","Value":false},"ShowNewBroadLandingPagesSept2022":{"ShortName":"522","Value":false},"DisablePreParse":{"ShortName":"91","Value":true},"OnlyHighConfChains":{"ShortName":"371","Value":false},"UseNewMobileSearchEndpoint":{"ShortName":"601","Value":true},"MobileWebUseNewMobileSearchEndpoint":{"ShortName":"298","Value":true},"WorkstationToggle":{"ShortName":"626","Value":true},"NavigateSpecSearchToggle":{"ShortName":"362","Value":true},"NavigateSpecSearchTest":{"ShortName":"361","Value":false},"RodEndSealsMixedWorldTest":{"ShortName":"445","Value":false},"BroadLandingPageCopyToggle":{"ShortName":"40","Value":true},"ORingsPilotNov2022Test":{"ShortName":"377","Value":false},"CordGripsPilotDec2022Test":{"ShortName":"65","Value":false},"CheckValvesPilotDec2022Test":{"ShortName":"50","Value":false},"CatalogPageFriendlyUrlsIncludePartNumber":{"ShortName":"46","Value":true},"NET6SpecSearchClient":{"ShortName":"364","Value":true},"MobileHideProductTable":{"ShortName":"244","Value":true},"MobileListSorting":{"ShortName":"247","Value":false},"MobileWebFeature_2":{"ShortName":"278","Value":true},"MobileWebFeature_5":{"ShortName":"279","Value":false},"DesktopPublishesUrlsWithProductsStem":{"ShortName":"80","Value":true},"MultiValueExplanationsToggle":{"ShortName":"314","Value":false},"Explanations_Clientside_Logging":{"ShortName":"152","Value":true},"MobileWebFeature_7":{"ShortName":"280","Value":false},"MobileWebFeature_9":{"ShortName":"281","Value":true},"DeliveryPageHideDeliveryEstimates":{"ShortName":"78","Value":false},"DeliveryPageDisruptionMessage":{"ShortName":"77","Value":false},"FixProdPageContainerHeightReadingWhenBannerActive":{"ShortName":"155","Value":false},"MobileWebFeature_11":{"ShortName":"269","Value":true},"MobileWebFeature_12":{"ShortName":"270","Value":true},"MobileWebFeature_13":{"ShortName":"271","Value":true},"MobileWebFeature_14":{"ShortName":"272","Value":false},"MobileWebFeature_15":{"ShortName":"273","Value":true},"MobileAppOrderHistoryProductsView":{"ShortName":"220","Value":false},"UseInterpretUrlHashForPDClick_Client":{"ShortName":"593","Value":true},"ProductDetail_ReactClient":{"ShortName":"396","Value":true},"MobileWebFeature_16":{"ShortName":"274","Value":true},"MobileWebFeature_17":{"ShortName":"275","Value":true},"MobileWebFeature_18":{"ShortName":"276","Value":true},"MobileWebFeature_19":{"ShortName":"277","Value":false},"TrkrVisit_SetCookieFlags":{"ShortName":"576","Value":true},"MobileBuildSpecSearchAsync":{"ShortName":"230","Value":true},"ShowPriceBreakSplits":{"ShortName":"526","Value":true},"UsePackQuantityPivoting":{"ShortName":"604","Value":true},"HierarchyProfile":{"ShortName":"176","Value":false},"DisablePriceBreaks":{"ShortName":"92","Value":false},"UseSpecSearchConversionLogic":{"ShortName":"614","Value":true},"ShowProductExplanations":{"ShortName":"527","Value":true},"LimitPFLPPubElemLinkagesToPF":{"ShortName":"196","Value":true},"UseAttrNullsInPubElemSelection":{"ShortName":"584","Value":true},"Survey_Delivery_Design_Group_1":{"ShortName":"539","Value":false},"CngLineBreaks":{"ShortName":"55","Value":true},"EnableNet8Serialization":{"ShortName":"119","Value":false},"ShowAndroidProductHistorySearch":{"ShortName":"512","Value":true},"ShowiOSProductHistorySearch":{"ShortName":"517","Value":true},"ConstructBLPInTileComponents":{"ShortName":"59","Value":true},"UsePrincipledAVW":{"ShortName":"605","Value":true},"ProductDetailComponentPNs_MobileWeb":{"ShortName":"402","Value":true},"ProductDetailComponentPNs_iOS":{"ShortName":"401","Value":true},"ProductDetailComponentPNs_Android":{"ShortName":"400","Value":true},"ProductDetailSpecPreselection_MobileWeb":{"ShortName":"408","Value":true},"ProductDetailSpecPreselection_iOS":{"ShortName":"407","Value":false},"ProductDetailSpecPreselection_Andriod":{"ShortName":"406","Value":false},"HideSETDRTDataInMobile_MobileWeb":{"ShortName":"175","Value":true},"HideSETDRTDataInMobile_iOS":{"ShortName":"174","Value":true},"HideSETDRTDataInMobile_Android":{"ShortName":"173","Value":true},"PDOnlyCNGs":{"ShortName":"387","Value":true},"UseSellUnitOfMeasureSplits":{"ShortName":"613","Value":true},"useInteractionsSearchCountCache":{"ShortName":"592","Value":false},"RedesignedRelatedLists":{"ShortName":"425","Value":true},"TableRefinementsTableColumnAlignment":{"ShortName":"556","Value":true},"TableRefinementsHorizontalAlignment":{"ShortName":"554","Value":true},"TableRefinementsTableColumnHeaderWrapping":{"ShortName":"557","Value":false},"TableRefinementsSpannerAlignmentAndPositioning":{"ShortName":"555","Value":true},"EnableItemToProductFamilyProjection":{"ShortName":"114","Value":true},"UseNPPImagesHealthCheck":{"ShortName":"603","Value":true},"UseNPPCopyHealthCheck":{"ShortName":"602","Value":true},"ApplyAttrRelRefinements":{"ShortName":"33","Value":true},"NewWorldPartNumberSearchClientOptimizations":{"ShortName":"366","Value":true},"PresentationTableIdRefactor":{"ShortName":"394","Value":false},"DoCADFileDownloadsThroughJavascriptInPunchoutMode_Client":{"ShortName":"98","Value":true},"UseLoginServer_Client":{"ShortName":"594","Value":true},"AttrRelRefinedSort":{"ShortName":"35","Value":true},"LayoutBoxSszs_Optimization_Client":{"ShortName":"193","Value":true},"UseSearchServer_Client":{"ShortName":"610","Value":true},"UseSearchServerForTransactionalSearches_Client":{"ShortName":"612","Value":false},"SaturdayDeliveryPromotionalBanner":{"ShortName":"449","Value":true},"ServerHorizontalPivotNonNullCheck":{"ShortName":"506","Value":false},"ParallelizePublicationElementSelection":{"ShortName":"381","Value":false},"UseReactWebToolset":{"ShortName":"608","Value":false},"OverrideSaturdayBannerDisplayClient":{"ShortName":"378","Value":false},"EmbeddedPwa_AndroidApp":{"ShortName":"106","Value":false},"UsePubElementSelectionCache":{"ShortName":"606","Value":true},"PerformanceResourceTimings":{"ShortName":"389","Value":false},"NavigateSearchTermToClickCountsOptimization":{"ShortName":"359","Value":true},"EnableClientRenderedSpecSearchProxy":{"ShortName":"112","Value":true},"TOPProductCountPerformance":{"ShortName":"560","Value":false},"ProductPresentationOptimizations":{"ShortName":"409","Value":false},"RemoveViewportFromItmPrsnttnRequests":{"ShortName":"432","Value":true},"CheckBLPContentWebPartViewportRemoval":{"ShortName":"49","Value":false},"navigateCountItemsBucketizingOptimization":{"ShortName":"324","Value":false},"RemoveViewportPFLPTilesToggle":{"ShortName":"433","Value":false}}};
+        var browseOnly = 'true';
+        var authToken = 'true';
+
+        SetUsrData(shellDict);
+        McMaster.Feature.SetFeatures(clientFeatures);
+
+
+	
+
+        if (authToken === "true") {
+            SesnMgr.SetStVal(SesnMgr.StValDefs.AuthTokenEnabled.KyTxt(), "true");
+        } else {
+            SesnMgr.SetStVal(SesnMgr.StValDefs.AuthTokenEnabled.KyTxt(), "false");
+            document.cookie = "cat" + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+        }
+
+    
+        SesnMgr.SetStVal(SesnMgr.StValDefs.WebsiteInitLoadInd.KyTxt(), false);
+
+    
+        SetStVal(StValDefs.HelpCntxtTxt.KyTxt(), "");
+        SetStVal(StValDefs.MultOrdsInd.KyTxt(), true);
+        SetStVal(StValDefs.HomePageRedesign.KyTxt(), true);
+        SetStVal(StValDefs.HomePageMinResolution.KyTxt(), 791);
+
+    
+        SetStVal(StValDefs.CurrCtlgEdtnNbr.KyTxt(), 130);
+
+    
+        SetStVal(StValDefs.CurrCtlgMaxPageNbr.KyTxt(), 4383);
+
+    
+        SetStVal(StValDefs.IntermediatePageNms.KyTxt(), "adhesives:Adhesives,fastening tape:Fastening Tape,hose:Hose,linear motion actuators:Linear Motion Actuators,flow pumps:Flow Pumps,flow valves:Flow Valves,electrical connectors:Electrical Connectors,lights:Lights,clamps:Clamps,parts-cleaning nozzles:Parts-Cleaning Nozzles,sanding abrasives:Sanding Abrasives,saws:Saws,knives:Knives,clothing:Clothing,chain and rope fittings:Chain and Rope Fittings,conveyors:Conveyors,carts:Carts,screwdrivers:Screwdrivers,wrenches:Wrenches,pliers:Pliers,knives:Knives,storage cabinets:Storage Cabinets,partitions:Partitions,storage boxes:Storage Boxes");
+
+    
+        McMaster.EnvrMgr.GetClntInfo("False");
+
+    
+        SetStVal(StValDefs.GZipKnownIncompatibilityInd.KyTxt(), false);
+
+    
+        SetStVal(StValDefs.FndAgainSlsWrkStObj.KyTxt(), "");
+
+    
+        SetStVal(StValDefs.SlsWrstMode.KyTxt(), "");
+
+    
+        SetStVal(StValDefs.InitialBrId.KyTxt(), parseInt($("#ShellLayout_CntctUs_Btn").attr("data-mcm-brid") || 0));
+
+        var homePageLoadIntractvTm = (new Date()).getTime();
+    
+        if (window.performance && window.performance.timing.domInteractive > 0) homePageLoadIntractvTm = window.performance.timing.domInteractive;
+
+
+        var slswrkstMode = "",
+        punchOutMode = "",
+        punchOutPrevOrdInd = "False";
+        punchOutPrevOrdInd = punchOutPrevOrdInd && punchOutPrevOrdInd.toLowerCase()
+
+    
+        if (typeof PushClient !== 'undefined') {
+            PushClient.setHostname("https://www5.mcmaster.com");
+        }
+
+        Trkr.GetSetNewBrowseInd(false);
+
+        if (slswrkstMode == "" && punchOutMode == "") {
+            Shell.BreakFraming();
+        } else if (punchOutMode == "edit" || punchOutMode == "view") {
+            Trkr.GetSetPlatform("punchout");
+            if (punchOutMode == "edit" && punchOutPrevOrdInd == "true") {
+			    if (window.location.pathname !== "/orders") {
+                    window.location.replace("/orders");
+				}
+            }
+        }
+
+
+    
+        switch (true) {
+
+        
+        case Cmn.GetQSVal("phonemode") === "true":
+            
+
+            switch (true) {
+                case navigator.userAgent.indexOf("Android") > -1:
+                    Trkr.GetSetPlatform("android_phone_app");
+                    break;
+
+                case navigator.userAgent.indexOf("iPhone") > -1:
+                    Trkr.GetSetPlatform("iphone_app");
+                    break;
+
+                default:
+                    
+                    break;
+            }
+            break;
+
+        
+        case Cmn.GetQSVal("appmode") === "true" && (!Cmn.GetQSVal("phonemode") || Cmn.GetQSVal("phonemode") === "false"):
+            
+
+            switch (true) {
+                case navigator.userAgent.indexOf("Android") > -1:
+                    Trkr.GetSetPlatform("android_tablet_app");
+                    break;
+
+                case navigator.userAgent.indexOf("iPad") > -1:
+                    Trkr.GetSetPlatform("ipad_app");
+                    break;
+
+                default:
+                    
+                    break;
+            }
+            break;
+
+        
+        case Cmn.GetQSVal("publication") === "SwCustomerAddIn":
+            Trkr.GetSetPlatform("cad_add_in");
+            break;
+
+        default:
+            
+                break;
+        }
+
+        McMaster.MsgMgr.AddSubscriber(McMaster.MsgMgrMsgs.ShellLoaded, function(msgObj) {McMaster.LoadMgr.LoadWebPart({"IDTxt":"LogoWebPart_638689963976496597BBWR","ServerTm":0,"ServerNm":"","ClsNm":"LogoWebPart","CntnrIDTxt":"ShellLayout_Logo_Cntnr","MarkupTxt":"","JSInclFilePaths":["/mv1733341401/include/LogoWebPart.es6.js?ver=1673955337"],"JSInclSrcFilePaths":["/mv1733341401/include/LogoWebPart.es6.js?ver=1673955337"],"CSSInclFilePaths":["/mv1733341401/css/LogoWebPartLayout.css?ver=1448355584"],"CSSInclSrcFilePaths":["/mv1733341401/css/LogoWebPartLayout.css?ver=1448355584"],"ChldWebParts":[],"LoadChldWebPartsInd":true,"UnloadChldWebPartsInd":true,"EmbeddedIntoShellInd":true});});McMaster.MsgMgr.AddSubscriber(McMaster.MsgMgrMsgs.ShellLoaded, function(msgObj) {McMaster.LoadMgr.LoadWebPart({"IDTxt":"SrchEntryWebPart_638689963976496597PBEN","ServerTm":0,"ServerNm":"","ClsNm":"SrchEntryWebPart","CntnrIDTxt":"ShellLayout_SrchEntryWebPart_Cntnr","MarkupTxt":"","JSInclFilePaths":["/mv1733341401/include/SrchEntryWebPart.es6.js?ver=1663675055"],"JSInclSrcFilePaths":["/mv1733341401/include/SrchEntryWebPart.es6.js?ver=1663675055"],"CSSInclFilePaths":[],"CSSInclSrcFilePaths":[],"ChldWebParts":[],"LoadChldWebPartsInd":true,"UnloadChldWebPartsInd":true,"EmbeddedIntoShellInd":true});});McMaster.MsgMgr.AddSubscriber(McMaster.MsgMgrMsgs.ShellLoaded, function(msgObj) {McMaster.LoadMgr.LoadWebPart({"IDTxt":"MastheadNavWebPart_638689963976496597ZWVW","ServerTm":0,"ServerNm":"","ClsNm":"MastheadNavWebPart","CntnrIDTxt":"ShellLayout_MastheadNav_Container","MarkupTxt":"","JSInclFilePaths":["/mv1733341401/include/MastheadNavWebPart.es6.js?ver=1697470868"],"JSInclSrcFilePaths":["/mv1733341401/include/MastheadNavWebPart.es6.js?ver=1697470868"],"CSSInclFilePaths":[],"CSSInclSrcFilePaths":[],"ChldWebParts":[],"LoadChldWebPartsInd":true,"UnloadChldWebPartsInd":true,"EmbeddedIntoShellInd":true});});McMaster.MsgMgr.AddSubscriber(McMaster.MsgMgrMsgs.ShellLoaded, function(msgObj) {McMaster.LoadMgr.LoadWebPart({"IDTxt":"MastheadPhoneNumberWebPart_638689963976496597EHSJ","ServerTm":0,"ServerNm":"","ClsNm":"MastheadPhoneNumberWebPart","CntnrIDTxt":"ShellLayout_MastheadPhoneNumber_Container","MarkupTxt":"","JSInclFilePaths":[],"JSInclSrcFilePaths":[],"CSSInclFilePaths":[],"CSSInclSrcFilePaths":[],"ChldWebParts":[],"LoadChldWebPartsInd":true,"UnloadChldWebPartsInd":true,"EmbeddedIntoShellInd":true});});McMaster.MsgMgr.AddSubscriber(McMaster.MsgMgrMsgs.ShellLoaded, function(msgObj) {McMaster.LoadMgr.LoadWebPart({"IDTxt":"BottomNavWebPart_638689963976496597BJAZ","ServerTm":0,"ServerNm":"","ClsNm":"BottomNavWebPart","CntnrIDTxt":"Shell_BottomNavWebPart_Cntnr","MarkupTxt":"","JSInclFilePaths":["/mv1733341401/include/BottomNavWebPart.es6.js?ver=1692633899"],"JSInclSrcFilePaths":["/mv1733341401/include/BottomNavWebPart.es6.js?ver=1692633899"],"CSSInclFilePaths":["/mv1733341401/css/BottomNavWebPartLayout.css?ver=1663675090"],"CSSInclSrcFilePaths":["/mv1733341401/css/BottomNavWebPartLayout.css?ver=1663675090"],"ChldWebParts":[],"LoadChldWebPartsInd":true,"UnloadChldWebPartsInd":true,"EmbeddedIntoShellInd":true});});McMaster.MsgMgr.AddSubscriber(McMaster.MsgMgrMsgs.ShellLoaded, function(msgObj) {McMaster.LoadMgr.LoadWebPart({"CatgIDTbl":{"1":{"DisplNm":"Abrading & Polishing","SrchEntry":"abrading and polishing","Position":"1","ImgLnk":"Abrading-and-Polishing-Catalog.png"},"2":{"DisplNm":"Building & Grounds","SrchEntry":"building and grounds","Position":"2","ImgLnk":"Building-and-Grounds-Catalog.png"},"3":{"DisplNm":"Electrical & Lighting","SrchEntry":"electrical and lighting","Position":"3","ImgLnk":"Electrical-and-Lighting-Catalog.png"},"4":{"DisplNm":"Fabricating","SrchEntry":"fabricating","Position":"4","ImgLnk":"Fabricating-Catalog.png"},"5":{"DisplNm":"Fastening & Joining","SrchEntry":"fastening and joining","Position":"5","ImgLnk":"Fastening-and-Joining-Catalog.png"},"6":{"DisplNm":"Filtering","SrchEntry":"filtering","Position":"6","ImgLnk":"Filtering-Catalog.png"},"7":{"DisplNm":"Flow & Level Control","SrchEntry":"flow and level control","Position":"7","ImgLnk":"Flow-and-Level-Control-Catalog.png"},"8":{"DisplNm":"Furniture & Storage","SrchEntry":"furniture and storage","Position":"8","ImgLnk":"Furniture-and-Storage-Catalog.png"},"9":{"DisplNm":"Hand Tools","SrchEntry":"hand tools","Position":"9","ImgLnk":"Hand-Tools-Catalog.png"},"10":{"DisplNm":"Hardware","SrchEntry":"hardware","Position":"10","ImgLnk":"Hardware-Catalog.png"},"11":{"DisplNm":"Heating & Cooling","SrchEntry":"heating and cooling","Position":"11","ImgLnk":"Heating-and-Cooling-Catalog.png"},"12":{"DisplNm":"Lubricating","SrchEntry":"lubricating","Position":"12","ImgLnk":"Lubricating-Catalog.png"},"13":{"DisplNm":"Material Handling","SrchEntry":"material handling","Position":"13","ImgLnk":"Material-Handling-Catalog.png"},"14":{"DisplNm":"Measuring & Inspecting","SrchEntry":"measuring and inspecting","Position":"14","ImgLnk":"Measuring-and-Inspecting-Catalog.png"},"15":{"DisplNm":"Office Supplies & Signs","SrchEntry":"office supplies and signs","Position":"15","ImgLnk":"Office-Supplies-and-Signs-Catalog.png"},"16":{"DisplNm":"Pipe, Tubing, Hose & Fittings","SrchEntry":"pipe tubing hose and fittings","Position":"16","ImgLnk":"Pipe-Tubing-Hose-and-Fittings-Catalog.png"},"17":{"DisplNm":"Plumbing and Janitorial","SrchEntry":"plumbing and janitorial","Position":"17","ImgLnk":"Plumbing-and-Janitorial-Catalog.png"},"18":{"DisplNm":"Power Transmission","SrchEntry":"power transmission","Position":"18","ImgLnk":"Power-Transmission-Catalog.png"},"19":{"DisplNm":"Pressure & Temperate Control","SrchEntry":"pressure and temperature control","Position":"19","ImgLnk":"Pressure-and-Temperature-Control-Catalog.png"},"20":{"DisplNm":"Pulling & Lifting","SrchEntry":"pulling and lifting","Position":"20","ImgLnk":"Pulling-and-Lifting-Catalog.png"},"21":{"DisplNm":"Raw Materials","SrchEntry":"raw materials","Position":"21","ImgLnk":"Raw-Materials-Catalog.png"},"22":{"DisplNm":"Safety Supplies","SrchEntry":"safety supplies","Position":"22","ImgLnk":"Safety-Supplies-Catalog.png"},"23":{"DisplNm":"Sawing & Cutting","SrchEntry":"sawing and cutting","Position":"23","ImgLnk":"Sawing-and-Cutting-Catalog.png"},"24":{"DisplNm":"Sealing","SrchEntry":"sealing","Position":"24","ImgLnk":"Sealing-Catalog.png"},"25":{"DisplNm":"Shipping","SrchEntry":"shipping","Position":"25","ImgLnk":"Shipping-Catalog.png"},"26":{"DisplNm":"Suspending","SrchEntry":"suspending","Position":"26","ImgLnk":"Suspending-Catalog.png"}},"IDTxt":"BrowseCatalogWebPart_638689963976496597PBGA","ServerTm":0,"ServerNm":"","ClsNm":"BrowseCatalogWebPart","CntnrIDTxt":"ShellLayout_BrowseCatalog_Cntnr","MarkupTxt":"","JSInclFilePaths":["/mv1733341401/include/BrowseCatalogWebPart.es6.js?ver=1686132261"],"JSInclSrcFilePaths":["/mv1733341401/include/BrowseCatalogWebPart.es6.js?ver=1686132261"],"CSSInclFilePaths":[],"CSSInclSrcFilePaths":[],"ChldWebParts":[],"LoadChldWebPartsInd":true,"UnloadChldWebPartsInd":true,"EmbeddedIntoShellInd":true});});
+
+                
+        Shell.PubShellLoadedMsg();
+
+        
+        Shell.AsyncPubPostShellLoadedMsg();
+
+        
+        if (Cmn.GetQSVal("publication") === "SwCustomerAddIn" && Cmn.GetQSVal("action") === "login") {
+            Shell.PubLoadLoginMsg();
+        }
+
+        
+            var retiredCookies = ["rcx1", "rcx10", "rcx11", "rcx12", "rcx14", "rcx17", "rcx18", "rcx2", "rcx20", "rcx22", "rcx4", "rcx5", "rcx6", "rcx7", "rcx8", "rcx15",
+                "PAGEPREF", "FAFSTRKPN", "CAD2DZOOM", "CAD2DDNLD", "CAD3DDNLD", "CPYPASTEPREF", "CAD3DZOOM", "BLDORDEXP", "CTLGZOOM", "TAB",
+                "optOutofNewMastheadInd", "useNewMastheadInd", "activityInd", "forwardingOpen", "forwardTo", "smartBannerCookie", "packageversion", "staticversion", "cookieUpdated", "carouselweb", "trkrseries",
+                "activityNewSpec", "activityPayment", "activityProducts", "termsandconditionspage", "xmlEmail", "clntmmgeo", "mastheadactivitytext", "trc", "_abck", "CPYPASTEPREF", "CMRC"];
+
+            for (var idx = 0; idx < retiredCookies.length; idx++) {
+                var cookieName = retiredCookies[idx];
+                if (Cmn.CookieExists(cookieName)) {
+                    Cmn.RemoveMcmCookie(cookieName);
+                }
+            }
+
+        }
+    };
+
+})();
+</script><script data-deferred="mcm-init" nonce="d2WYpx8Q8cs="> 
+    (function() {      
+
+        var toFetchSequentially = [];
+        var toFetchInParallel = [];           
+
+        window.loadNextDeferredScript = function() {
+            if (toFetchSequentially.length === 0) {
+                ShellASPX.PreShellLoadedFunc();
+                window.loadNextDeferredScript = function() {
+                    // run just once
+                };
+            } else {
+                var script = toFetchSequentially.shift();
+                script.setAttribute('src', script.getAttribute('data-deferred-src'));
+            }
+        };
+
+        window.handlePageReady = function() {     
+            var deferredScripts = document.getElementsByTagName('script');
+
+            for (var i=0; i<deferredScripts.length; i++) {
+                var s = deferredScripts[i];
+                if (s.getAttribute('data-deferred-src') && !s.noModule) {
+                    toFetchSequentially.push(s);
+                }
+            }  
+
+            var deferredStylesheets = document.getElementsByTagName('link');
+            for (var i=0; i<deferredStylesheets.length; i++) {
+                var s = deferredStylesheets[i];
+                if (s.getAttribute('rel') === 'stylesheet' && s.getAttribute('data-deferred-href')) toFetchInParallel.push(s);
+            }       
+
+
+            loadNextDeferredScript();
+    
+            for (var i=0; i<toFetchInParallel.length; i++) {
+                var s = toFetchInParallel[i];
+                s.setAttribute('href', s.getAttribute('data-deferred-href'));
+            }
+                
+            toFetchInParallel = [];
+        };
+
+    })();  
+    </script><style data-styled="" data-styled-version="4.4.0"></style><script id="yui__dyn_0" type="text/javascript" charset="utf-8" src="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_197b51692678c10e4f23098cbe3ee3c0.js?files=UkUzcIUsWzUu"></script><script id="yui__dyn_1" type="text/javascript" charset="utf-8" src="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_900586e88397a6654cfff58e78b14d9b.js?files=CjBnC7"></script><script id="yui__dyn_2" type="text/javascript" charset="utf-8" src="/mv1733341401/HTTPHandlers/ScriptCombiner/mcm_65c6b87ca00fc5833cf587dfd713e4bc.js?files=CUBUCVBWBTAbAwBVCm"></script></head>
+<body class="no-touch"> 
+<script data-mcm-hash-id="10">
+    var el = document.createElement("div"), onEvntNm = "ontouchstart";
+    var isTouchDevice = (onEvntNm in el);
+    if (!isTouchDevice) {
+        el.setAttribute(onEvntNm, "return;");
+        isTouchDevice = typeof el[onEvntNm] === "function";
+    }
+    if (isTouchDevice) document.body.className = 'touch';
+</script>
+
+        
+
+
+    <!--[if IE]><iframe id="yui-history-iframe" src="https://images1.mcmaster.com/init/gfx/blank.gif?ver=1539608820"></iframe><![endif]-->
+    
+    <input id="yui-history-field" type="hidden">
+	
+    <div id="ShellLayout_Cntnr" class="highres tab-inactive">
+        <header class="container-masthead" id="ShellLayout_Header_Cntnr">
+            
+            <div id="ShellLayout_BrowseCatalog_Cntnr"><div id="BrowseCatalog_Cntnr"><div id="BrowseCatalog_ButtonCntnr"><img id="BrowseCatalog_ButtonImg" src="https://images1.mcmaster.com/init/gfx/home/CategoryTiles/Browse-Catalog-Icon.png?ver=1640884702"><button type="button" id="BrowseCatalog_Button">BROWSE CATALOG</button></div><div class="overlay"></div><section class="browse-catalog-menu"><header><a class="logo-link" href="/" tabindex="-1"><img preserveaspectratio="xMinYMin meet" alt="McMaster-Carr Logo" src="https://images1.mcmaster.com/init/gfx/MastheadLogo.svg?ver=1545146094"></a><button class="close-button" alt="Browse Category Menu Close Button" tabindex="-1" title="close"></button></header><ul class="category-list"><li><a id="catg0_Abrading-Polishing" class="category-tile" href="/products/abrading-and-polishing/" tabindex="-1"><img alt="Abrading &amp; Polishing" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Abrading-and-Polishing-Catalog.png?ver=1658507392"><span class="category-name">Abrading &amp; Polishing</span></a></li><li><a id="catg1_Building-Grounds" class="category-tile" href="/products/building-and-grounds/" tabindex="-1"><img alt="Building &amp; Grounds" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Building-and-Grounds-Catalog.png?ver=1658507392"><span class="category-name">Building &amp; Grounds</span></a></li><li><a id="catg2_Electrical-Lighting" class="category-tile" href="/products/electrical-and-lighting/" tabindex="-1"><img alt="Electrical &amp; Lighting" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Electrical-and-Lighting-Catalog.png?ver=1658507392"><span class="category-name">Electrical &amp; Lighting</span></a></li><li><a id="catg3_Fabricating" class="category-tile" href="/products/fabricating/" tabindex="-1"><img alt="Fabricating" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Fabricating-Catalog.png?ver=1658507392"><span class="category-name">Fabricating</span></a></li><li><a id="catg4_Fastening-Joining" class="category-tile" href="/products/fastening-and-joining/" tabindex="-1"><img alt="Fastening &amp; Joining" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Fastening-and-Joining-Catalog.png?ver=1658507392"><span class="category-name">Fastening &amp; Joining</span></a></li><li><a id="catg5_Filtering" class="category-tile" href="/products/filtering/" tabindex="-1"><img alt="Filtering" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Filtering-Catalog.png?ver=1658507392"><span class="category-name">Filtering</span></a></li><li><a id="catg6_Flow-Level-Control" class="category-tile" href="/products/flow-and-level-control/" tabindex="-1"><img alt="Flow &amp; Level Control" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Flow-and-Level-Control-Catalog.png?ver=1658507392"><span class="category-name">Flow &amp; Level Control</span></a></li><li><a id="catg7_Furniture-Storage" class="category-tile" href="/products/furniture-and-storage/" tabindex="-1"><img alt="Furniture &amp; Storage" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Furniture-and-Storage-Catalog.png?ver=1658507392"><span class="category-name">Furniture &amp; Storage</span></a></li><li><a id="catg8_Hand-Tools" class="category-tile" href="/products/hand-tools/" tabindex="-1"><img alt="Hand Tools" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Hand-Tools-Catalog.png?ver=1658507392"><span class="category-name">Hand Tools</span></a></li><li><a id="catg9_Hardware" class="category-tile" href="/products/hardware/" tabindex="-1"><img alt="Hardware" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Hardware-Catalog.png?ver=1658507392"><span class="category-name">Hardware</span></a></li><li><a id="catg10_Heating-Cooling" class="category-tile" href="/products/heating-and-cooling/" tabindex="-1"><img alt="Heating &amp; Cooling" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Heating-and-Cooling-Catalog.png?ver=1658507392"><span class="category-name">Heating &amp; Cooling</span></a></li><li><a id="catg11_Lubricating" class="category-tile" href="/products/lubricating/" tabindex="-1"><img alt="Lubricating" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Lubricating-Catalog.png?ver=1658507392"><span class="category-name">Lubricating</span></a></li><li><a id="catg12_Material-Handling" class="category-tile" href="/products/material-handling/" tabindex="-1"><img alt="Material Handling" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Material-Handling-Catalog.png?ver=1658507392"><span class="category-name">Material Handling</span></a></li><li><a id="catg13_Measuring-Inspecting" class="category-tile" href="/products/measuring-and-inspecting/" tabindex="-1"><img alt="Measuring &amp; Inspecting" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Measuring-and-Inspecting-Catalog.png?ver=1658507392"><span class="category-name">Measuring &amp; Inspecting</span></a></li><li><a id="catg14_Office-Supplies-Signs" class="category-tile" href="/products/office-supplies-and-signs/" tabindex="-1"><img alt="Office Supplies &amp; Signs" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Office-Supplies-and-Signs-Catalog.png?ver=1658507392"><span class="category-name">Office Supplies &amp; Signs</span></a></li><li><a id="catg15_Pipe-Tubing-Hose-Fittings" class="category-tile" href="/products/pipe-tubing-hose-and-fittings/" tabindex="-1"><img alt="Pipe, Tubing, Hose &amp; Fittings" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Pipe-Tubing-Hose-and-Fittings-Catalog.png?ver=1658507392"><span class="category-name">Pipe, Tubing, Hose &amp; Fittings</span></a></li><li><a id="catg16_Plumbing-and-Janitorial" class="category-tile" href="/products/plumbing-and-janitorial/" tabindex="-1"><img alt="Plumbing and Janitorial" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Plumbing-and-Janitorial-Catalog.png?ver=1658507392"><span class="category-name">Plumbing and Janitorial</span></a></li><li><a id="catg17_Power-Transmission" class="category-tile" href="/products/power-transmission/" tabindex="-1"><img alt="Power Transmission" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Power-Transmission-Catalog.png?ver=1658507392"><span class="category-name">Power Transmission</span></a></li><li><a id="catg18_Pressure-Temperate-Control" class="category-tile" href="/products/pressure-and-temperature-control/" tabindex="-1"><img alt="Pressure &amp; Temperate Control" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Pressure-and-Temperature-Control-Catalog.png?ver=1658507392"><span class="category-name">Pressure &amp; Temperate Control</span></a></li><li><a id="catg19_Pulling-Lifting" class="category-tile" href="/products/pulling-and-lifting/" tabindex="-1"><img alt="Pulling &amp; Lifting" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Pulling-and-Lifting-Catalog.png?ver=1658507392"><span class="category-name">Pulling &amp; Lifting</span></a></li><li><a id="catg20_Raw-Materials" class="category-tile" href="/products/raw-materials/" tabindex="-1"><img alt="Raw Materials" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Raw-Materials-Catalog.png?ver=1658507392"><span class="category-name">Raw Materials</span></a></li><li><a id="catg21_Safety-Supplies" class="category-tile" href="/products/safety-supplies/" tabindex="-1"><img alt="Safety Supplies" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Safety-Supplies-Catalog.png?ver=1658507392"><span class="category-name">Safety Supplies</span></a></li><li><a id="catg22_Sawing-Cutting" class="category-tile" href="/products/sawing-and-cutting/" tabindex="-1"><img alt="Sawing &amp; Cutting" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Sawing-and-Cutting-Catalog.png?ver=1658507392"><span class="category-name">Sawing &amp; Cutting</span></a></li><li><a id="catg23_Sealing" class="category-tile" href="/products/sealing/" tabindex="-1"><img alt="Sealing" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Sealing-Catalog.png?ver=1658507392"><span class="category-name">Sealing</span></a></li><li><a id="catg24_Shipping" class="category-tile" href="/products/shipping/" tabindex="-1"><img alt="Shipping" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Shipping-Catalog.png?ver=1658507392"><span class="category-name">Shipping</span></a></li><li><a id="catg25_Suspending" class="category-tile" href="/products/suspending/" tabindex="-1"><img alt="Suspending" src="https://images1.mcmaster.com/init/gfx/home/BrowseCatalogCategoryImages/1x/Suspending-Catalog.png?ver=1658507392"><span class="category-name">Suspending</span></a></li><li></li></ul></section></div></div>
+            <div class="masthead-top-right">
+                <div id="ShellLayout_MastheadPhoneNumber_Container" class="link-wrapper"><input type="hidden" value="Session Id"><a class="masthead-top-right-link cursor-default" href="tel:+16308330300" aria-label="6 3 0. 8 3 3. 0 3 0 0.">(630) 833-0300</a></div>
+				<div class="divider"></div>
+                <div id="ShellLayout_MastheadEmailUs_Container" class="link-wrapper"><a id="EmailUsWebPartLink" href="#">Email Us</a><div id="MastheadEmailUsWebPart_ContentContainer"><div id="MastheadEmailUsDialog" class="dialog show-form hide"><section id="MastheadEmailUsDialogForm" class="form" role="form"><header class="section"><h2 class="title">Email Us</h2><p class="subtitle">We will reply to your message within an hour.</p><button class="close" title="close"></button></header><div class="section from-section"><label class="from-label" for="from-input">From</label><span class="from-input-wrapper"><input id="from-input" name="from-input" class="from-input" type="text" value="drsbaird@yahoo.com"></span></div><div class="section message-section"><div class="expanding-area active"><pre><span class="message-input-clone"></span><br></pre><textarea id="message-input" class="message-input" placeholder="Let us know what you need."></textarea></div></div><footer class="section"><div class="left-container"><button class="button-send-feedback">SEND</button><button class="link-cancel-feedback">CANCEL</button><span class="footer-message-container"></span></div><div class="right-container"><span class="email-message">Customer&nbsp;Service&nbsp;Email:&nbsp;<a href="mailto:sales@mcmaster.com">sales@mcmaster.com</a></span></div></footer></section><section id="MastheadEmailUsConfirmation" class="email-us-confirmation" role="alert"><div class="section"><p>We will reply to your message within an hour.</p><button class="close" title="close"></button></div></section></div></div></div>
+                <div class="divider"></div>
+                <div id="ShellLayout_MastheadLogin_Cntnr" class="link-wrapper"><div id="MastheadLoginWebPartCntnr"><div class="Clear"><div id="MastheadLoginUsrCtrlCntnr" class="MastheadLoginUsrCtrlCntnr_Hide"><div class="LoginUsrCtrlWebPart_ContentCntnr"><div id="PunchoutLoginTxtCntnr_Masthead" class="label-punchout hidden">Punchout</div><div id="_CrtePswdAlertCntnr" class="LoginUsrCtrlWebPart_AlertCntnr link-wrapper"><a id="LoginUsrCtrlWebPart_LoginLnk" class="header--masthead text-login " href="#">Darnell Baird<svg viewBox="0 0 10 6"><polygon points="0,0 5,6 10,0"></polygon></svg></a></div></div></div></div><div id="MastheadLoginInner" class="Clear MastheadLoginInner_Hide container--loginbox"><div id="MastheadLoginInner_Content"><div id="MastheadLogin"><!--[if lte IE 8]><div id="MastheadLoginWebPartLayout_ClosBtn" class="ie8-closeicon--mastheadlogin" onclick="MastheadLoginWebPart.LoginUsrCtrlCntnr_Close();return false;"> <img width="14px" height="14px" src="https://images1.mcmaster.com/mvC/gfx/circleX-IE8.png?ver=1479316512"" /><![endif]--><!--[if gte IE 9]><!--><div id="MastheadLoginWebPartLayout_ClosBtn" class="closeicon--mastheadlogin"><!--<![endif]--><a href="#"></a></div><div id="MastheadLoginWebPartLayout_LogoffUsrCtrlWebPartCntnr"></div><div id="MastheadLoginWebPartLayout_SiteSettingsLnk"><a class="link-logoff link-undo" id="settings-masthead-version" ;="" href="#">Settings</a></div></div><div class="Clear"></div></div></div></div></div>
+            </div>
+            <div id="ShellLayout_Logo_Cntnr" class="shell-layout-logo-container"><div class="logo-web-part"><a id="LogoWebPart_Link" href="/"><!--[if !IE 8]><!--><img src="https://images1.mcmaster.com/init/gfx/MastheadLogo.svg?ver=1545146094" alt="McMaster-Carr logo"><!--<![endif]--><!--[if IE 8]><img height="32" width="220" src="https://images1.mcmaster.com/init/gfx/MastheadLogoIE8.png?ver=1539608820" alt=""/><![endif]--></a></div></div>
+            <div id="ShellLayout_SrchEntryWebPart_Cntnr" class="shell-layout-search-entry-container"><div id="SrchEntryWebPart_Cntnr" class="container-searchentry"><form id="SrchEntryWebPart_Form"><input type="text" class="searchbar" placeholder="Search" id="SrchEntryWebPart_InpBox" name="SrchEntryWebPart_InpBox" autocomplete="off" autocorrect="off" autocapitalize="off" maxlength="150"><input type="text" class="ac-searchbar" tabindex="-1" autocomplete="off" autocorrect="off" autocapitalize="off" maxlength="150"><button id="SrchEntryClearButton" class="clear-button" type="button" title="clear"></button><span id="SrchEntryVerticalSeprt" class="VerticalSeprt"></span><input type="submit" title="search" class="searchbar-button"></form><div class="ac-content suggestions-layout"><div class="ac-bd"><ul></ul></div></div><div class="nosrchrslts nosrchrslts-hide" style="width: 295px;"></div></div></div>
+            <div id="ShellLayout_MastheadNav_Container" class="shell-layout-masthead-nav-container"><nav class="masthead-nav"><ul class="masthead-nav-ul"><li class="li-masthead li-masthead--order"><a class="masthead-nav-anchor" id="ShellLayout_CurrOrd_Btn" href="/orders">Order</a><div class="wrapper-ordernotif"><div tabindex="-1" class="wrapper-ordernotifitemview"><span class="badge-masthead--notifs">25</span>
+<div class="wrapper-ordernotiflines hidden" style="overflow: hidden;">
+    <div class="ordernotiflines-cntnr">
+            <a class="drop-down-product-line-link" href="/7568A37">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/756/7568a37-@60p_637284959242036848.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Gasket Maker Sealant</div>
+							<div class="product-description">High-Temperature, Loctite® 5109, 7 FL. oz. Tube</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/1500N107">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/150/1500N107_7a766c9c-eef0-49c8-a929-29a0638ba99c@60p_638085917901163239.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">High-Temperature Foam Ring</div>
+							<div class="product-description">1-3/4" OD, 1-1/2" ID</div>
+						</div>
+						<div class="product-quantity-info-cntnr">4<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/44665K419">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/446/44665K419_d493b092-2601-4bab-b475-fc200bcff5e4@60p_638108543901880911.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Standard-Wall Aluminum Pipe Nipple</div>
+							<div class="product-description">Threaded on Both Ends, 2 NPT, 8" Long</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/3006T82">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/300/3006T82_f30a2635-7cae-48c2-8b42-c5fd8248f54a1718058318@60p_gc06j_1718058322.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Threaded-Rod-Mount Clamping Hanger</div>
+							<div class="product-description">with Closure Bolt and Nut, Zinc-Plated Steel, 1-3/4" ID</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Pack<br>Of 10 each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/1061T79">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/106/1061T79p1-j06-digitall@60p_636728808104939686.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Silicone Rubber High-Temperature Grommets</div>
+							<div class="product-description">for 1-3/4" Hole Diameter and 1/16" Material Thickness, 1-1/2" ID</div>
+						</div>
+						<div class="product-quantity-info-cntnr">4<br>Packs<br>Of 1 each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/3225T29">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/322/3225T29_5dc947a1-7a01-46cc-88ec-8da90100530e@60p_1681998461.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Vibration-Damping Loop Clamp</div>
+							<div class="product-description">304 Stainless Steel with EPDM Rubber Cushion, 1-1/2" ID</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Pack<br>Of 10 each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/8974K18">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/897/8974k522_78747318-01fa-4c7e-b5bf-bf02743a7754@60p_637843203705588621.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Multipurpose 6061 Aluminum Rod</div>
+							<div class="product-description">1-1/2" Diameter x 3 Feet Long</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/6546K49">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/654/6546K492_b80ba03c-2d27-4f5c-ae5c-bae9dbebcfdf@60p_1693582640.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Multipurpose 6061 Aluminum Rectangular Tube</div>
+							<div class="product-description">1/16" Wall Thickness, 1/2" High x 1/2" Wide Outside, 3 Feet Long</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/91280A116">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/912/91280A116_6e0d322f-c661-4fdb-8c27-76373d0e886e@60p_637982987020071047.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Medium-Strength Class 8.8 Steel Hex Head Screw</div>
+							<div class="product-description">Zinc-Plated, M3 x 0.5 mm Thread, 20 mm Long</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Pack<br>Of 100 each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/9271K594">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/927/9271K594_9b127116-0c05-480f-9e57-5521d50e87c8@60p_638110158941763457.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Torsion Spring</div>
+							<div class="product-description">90 Degree Left-Hand Wound, 1.11" OD</div>
+						</div>
+						<div class="product-quantity-info-cntnr">4<br>Packs<br>Of 1 each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/46325K34">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/463/46325K34_443191da-13cc-4d2a-9100-3a7368dd25a5@60p_59s6d_1720455165.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Standard-Port 316 Stainless Steel Body On/Off Valve</div>
+							<div class="product-description">with Lockable Lever Handle, 2 NPT Female</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/4881K56">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/488/4881K56p1-c01d-digitall@60p_636670604324880450.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Thick-Wall PVC Plastic Pipe Fitting for Water</div>
+							<div class="product-description">Cap, 2 Pipe Size Socket-Connect Female</div>
+						</div>
+						<div class="product-quantity-info-cntnr">2<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/44705K625">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/447/44705k625--229cfc6d8c11630678553-p9@60p_637662573585579025.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Low-Pressure Aluminum Pipe Fitting</div>
+							<div class="product-description">Bushing Reducing Adapter, 2 NPT Male x 1/2 NPT Female</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/44705K625">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/447/44705k625--229cfc6d8c11630678553-p9@60p_637662573585579025.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Low-Pressure Aluminum Pipe Fitting</div>
+							<div class="product-description">Bushing Reducing Adapter, 2 NPT Male x 1/2 NPT Female</div>
+						</div>
+						<div class="product-quantity-info-cntnr">2<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/89965K821">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/899/89965K129_edb014cf-73a9-4594-a6a0-8ccce10c9710@60p_1694624029.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">General Purpose Aluminum Tubing</div>
+							<div class="product-description">2" OD, 0.035" Wall Thickness, 3 Feet Long</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/9176T6">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/917/9176T61_808b3f69-a70e-47c7-802d-4ddd9b1855e0@60p_1694094666.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">High-Pressure Hard Polycarbonate Plastic Tubing</div>
+							<div class="product-description">for Air and Water, Clear, 1-1/4" ID, 1-1/2" OD, 2 Feet Long</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/9176T8">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/917/9176T81_ebb2677b-716d-4515-a4d7-8e3980d6b537@60p_1694094812.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">High-Pressure Hard Polycarbonate Plastic Tubing</div>
+							<div class="product-description">for Air and Water, Clear, 1-3/4" ID, 2" OD, 2 Feet Long</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/1755K73">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/175/1755K73_f2edce5a-186e-4ac9-bb5b-6803bbad0326@60p_s40f3_1722048674.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Clear Impact-Resistant Polycarbonate 90 Degree Angle</div>
+							<div class="product-description">0.1" Wall Thickness, 2" High x 2" Wide Outside, 2 Feet Long</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/9271K276">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<div class="empty-dropdown-img-placeholder"></div>
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Torsion Spring</div>
+							<div class="product-description">270 Degree Angle, Right-Hand Wound, 0.784" OD</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Pack<br>Of 6 each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/50785K274">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/507/50785k274_8b2655c2-06cc-44a8-b01f-93cab1b22d68@60p_637771710133428780.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">High-Pressure Brass Pipe Fitting</div>
+							<div class="product-description">Through-Wall Straight Connector, 3/8 NPT Female</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/50785K275">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/507/50785k275_78dcaf4e-f389-48db-bff7-574660674957@60p_637771709082601757.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">High-Pressure Brass Pipe Fitting</div>
+							<div class="product-description">Through-Wall Straight Connector, 1/2 NPT Female</div>
+						</div>
+						<div class="product-quantity-info-cntnr">2<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/5346K99">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/534/5346K99_d740ce2c-67f0-452b-986c-74c160ccb519@60p_jrtjk_1722890801.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Brass Barbed Hose Fitting for Air and Water</div>
+							<div class="product-description">Straight Adapter for 3/4" Hose ID x 3/4"-16 Male</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Pack<br>Of 1 each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/50695K67">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/506/50695K67_c8ff577a-a6c2-43f0-9754-c6ad19e758331688666733@60p_1688666736.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">37 Degree Flared Fitting for Steel Tubing</div>
+							<div class="product-description">Straight Male Adapter for 1/2" Tube OD x 3/4"-16</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/50925K437">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/509/50925K437p1-c01d-digitall@60p_636616342399401664.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">Compact Extreme-Pressure Steel Pipe Fitting</div>
+							<div class="product-description">Plug with Hex Drive, 3/4"-16 UN/UNF Thread Male</div>
+						</div>
+						<div class="product-quantity-info-cntnr">10<br>Each</div>
+				</div>
+			</a>
+            <a class="drop-down-product-line-link" href="/6015N26">
+				<div class="drop-down-product-line-body">
+						<div class="product-image-cntnr">
+							<img class="product-image" src="/mvC/Contents/gfx/ImageCache/601/6015N264_81ec2e70-4942-4b6e-92d5-d1ede2751b95@60p_1693933867.png?ver=ImageNotFound">
+						</div>
+						<div class="product-name-and-desc-cntnr">
+							<div class="product-name">High-Pressure Hard Plastic Tubing for Air and Water</div>
+							<div class="product-description">Clear Polycarbonate, 14 mm ID, 16 mm OD, 2 Feet Long</div>
+						</div>
+						<div class="product-quantity-info-cntnr">1<br>Each</div>
+				</div>
+			</a>
+    </div>
+    <div class="ordernotif-view-order">View Order</div>
+</div></div></div><div class="wrapper-orderupdatenotifications"></div></li><li class="li-masthead li-masthead--ordhist"><a class="masthead-nav-anchor" id="ShellLayout_OrdHist_Btn" href="/order-history">Order History</a><div class="notification-center-wrapper"><div class="notifications-badge-container hidden"><div class="notification-center-badge"><div class="badge">0</div></div></div>
+<div class="new-notification-container"></div>
+<div class="notifications-container"><ul class="notifications-list"></ul></div></div></li></ul></nav></div>
+            <div id="ShellLayout_CntctSelTool_Cntnr"></div>
+            <div id="ShellLayout_Promotional_Banner_Cntnr" class="shell-promotionalbannercontainer"></div>    
+        <div id="breadcrumbContainer" style="visibility: hidden;"><nav id="breadcrumbsNavTag"><a href="https://www.mcmaster.com"></a><a href="https://www.mcmaster.com/products"></a><a href="https://www.mcmaster.com/products/screws"></a><a href="https://www.mcmaster.com/products/screws/rounded-head-screws~"></a><a href="https://www.mcmaster.com/products/screws/rounded-head-screws~/length~20-mm"></a></nav></div></header>
+        <div id="ShellLayout_Content_Cntnr" class="shell-contentcontainer">
+            
+            
+            <div id="ShellLayout_SecondaryContent_Cntnr" class="ShellLayout_SecondaryContent_Cntnr_SecondaryContent_Collapsed">
+
+                <div id="ShellLayout_SecondaryContent_Content_Cntnr">
+
+                    
+                    <div id="SecondaryContentTitl" class="PanelTitl" style="display: block;"></div>
+
+                    
+                        <div id="SecondaryContent" style="display: none;">
+                        
+                        </div>
+
+                    
+                    <!--[if !IE]><!-->
+                        <iframe name="ResultsIFrame" class="ShellLayout_ResultsIFrame_PromptIFrame_Contracted" id="ResultsIFrame" frameborder="0" allowtransparency="true"></iframe>
+                    <!--<![endif]-->
+                </div>
+
+            </div>
+
+            <div id="ShellLayout_MainContent_Cntnr">
+
+                    
+                    <div id="ShellLayout_MainContent_Inner" class="ShellLayout_MainContent_Inner_SecondaryContent_Collapsed">
+
+                    
+                    <main id="MainContent" class="ShellLayout_MainContent_ProdPage_Loaded" style="display: block;"><div id="ProductPage"><div class="jg SpecSrch_CntnrWithSlider jl" id="SpecSrch_Cntnr" style="display: block;"><div class="jh" id="SpecSrch_Inner" style="width: 243px; height: 845px;"><div class="SpecSearchStyles_container__1ljgT"><div class="SpecSearchStyles_frame__3AWER"><div class="SpecSearchStyles_specFrameHeader__2QJf5" id="SpecSrchFrame_Header"><div class="SpecSearchStyles_filterByHeader__3CMZg">Filter by</div><button class="SpecSearchStyles_clearAll__3k7Er">Clear all</button></div><div id="attributeId_10000001492748"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">System</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">of</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Measurement</span></div></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7" href="system-of-measurement~metric/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">Metric</span></div></button></div></a></div></div></div><div id="attributeId_10000000008187"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Thread</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Size</span></div><span class="SpecSearchStyles_industrialInfoIconContainer__1OHYA"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Thread Size"><img class="IndustrialInfoIcon_iconHighlight__3kcRy" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Compare"></div></span></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 50%;"><a class="SpecSearchStyles_base__2na-7" href="thread-size~m3/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About M3 Thread Size"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">M3</span></div></button></div></a><a class="SpecSearchStyles_base__2na-7" href="thread-size~m4/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About M4 Thread Size"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">M4</span></div></button></div></a></div><div style="flex-basis: 50%;"><a class="SpecSearchStyles_base__2na-7" href="thread-size~m5/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About M5 Thread Size"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">M5</span></div></button></div></a><a class="SpecSearchStyles_base__2na-7" href="thread-size~m6/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About M6 Thread Size"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">M6</span></div></button></div></a></div></div></div><div id="attributeId_10000000007169"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Length</span></div><button class="SpecSearchStyles_showHideButton__17EAn"><span class="SpecSearchStyles_buttonText__3OWlg">See all</span></button></div><div><img class="AttributeDisplay_Image__37Vxi" src="/mvC/BOSS/1728363600000/a76d0d3b-2837-459d-ad79-5c7abdef036e/7857322851617.svg" height="48" width="49" alt="Attribute Image"></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7 SpecSearchStyles_isSelected__FmkL9" href="length~20-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">20</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a></div></div></div><div id="attributeId_10000000002113"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Drive</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Style</span></div><span class="SpecSearchStyles_industrialInfoIconContainer__1OHYA"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Drive Style"><img class="IndustrialInfoIcon_iconHighlight__3kcRy" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></span></div><div class="SpecSearchStyles_flexItem__3Rpcp"><a class="SpecSearchStyles_base__2na-7" id="10000000126658" href="drive-style~jis/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About JIS Drive Style"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="HorizontalImageValue_horizontalImage__2AIh3"><div style="flex: 0 0 28px;"><img src="/mvC/BOSS/1728363600000/01bf1ea3-ab5e-442b-a611-dcfa3f374952/5139586887233.svg" height="28" width="28" alt="Attribute"></div><div class="HorizontalImageValue_horizontalText__3SBp7"><span class="TextDisplay_plainText__1tLS8">JIS</span></div></div></button></div></a></div></div><div id="attributeId_10000001474336"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Head</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Diameter</span></div></div><div><img class="AttributeDisplay_Image__37Vxi" src="/mvC/BOSS/1728363600000/b71e17b9-0684-435a-bd1b-99f60b0df0c3/864315173669.svg" height="40" width="152" alt="Attribute Image"></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 50%;"><a class="SpecSearchStyles_base__2na-7" href="head-diameter~5-50-mm/head-diameter~5-5-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">5.5</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a><a class="SpecSearchStyles_base__2na-7" href="head-diameter~7-00-mm/head-diameter~7-0-mm/head-diameter~7-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">7</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a></div><div style="flex-basis: 50%;"><a class="SpecSearchStyles_base__2na-7" href="head-diameter~9-00-mm/head-diameter~9-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">9</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a><a class="SpecSearchStyles_base__2na-7" href="head-diameter~10-50-mm/head-diameter~10-5-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">10.5</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a></div></div></div><div id="attributeId_10000001586066"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Fastener</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Head</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Type</span></div></div><div class="SpecSearchStyles_flexItem__3Rpcp"><a class="SpecSearchStyles_base__2na-7" id="10000001594947" href="fastener-head-type~rounded/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Rounded Fastener Head Type"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="HorizontalImageValue_horizontalImage__2AIh3"><div style="flex: 0 0 54px;"><img src="/mvC/BOSS/1728363600000/39f982d7-7623-4c14-a0fb-9693a2f25655/9109880710295.svg" height="57" width="54" alt="Attribute"></div><div class="HorizontalImageValue_horizontalText__3SBp7"><span class="TextDisplay_plainText__1tLS8">Rounded</span></div></div></button></div></a></div></div><div id="attributeId_10000001972965"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Rounded</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Head</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Style</span></div></div><div class="SpecSearchStyles_flexItem__3Rpcp"><a class="SpecSearchStyles_base__2na-7" id="10000001981933" href="rounded-head-style~pan/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Pan Rounded Head Style"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="HorizontalImageValue_horizontalImage__2AIh3"><div style="flex: 0 0 36px;"><img src="/mvC/BOSS/1728363600000/1c4222c9-9401-4e53-b23f-a23bf7077957/2696761943206.svg" height="39" width="36" alt="Attribute"></div><div class="HorizontalImageValue_horizontalText__3SBp7"><span class="TextDisplay_plainText__1tLS8">Pan</span></div></div></button></div></a></div></div><div id="attributeId_10000000007257"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Material</span></div></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7" href="material~18-8-stainless-steel/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About 18-8 Stainless Steel Material"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">18</span><span class="TextDisplay_plainText__1tLS8">-</span><span class="TextDisplay_plainText__1tLS8">8</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Stainless</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Steel</span></div></button></div></a></div></div></div><div id="attributeId_10000000008185"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Thread</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Pitch</span></div><span class="SpecSearchStyles_industrialInfoIconContainer__1OHYA"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Thread Pitch"><img class="IndustrialInfoIcon_iconHighlight__3kcRy" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></span></div><div><img class="AttributeDisplay_Image__37Vxi" src="/mvC/BOSS/1728363600000/516b4ab6-eac0-49da-9b4d-0a37fa0a7db6/5330677802774.svg" height="50" width="56" alt="Attribute Image"></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 50%;"><a class="SpecSearchStyles_base__2na-7" href="thread-pitch~0-5-mm-2/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">0.5</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a><a class="SpecSearchStyles_base__2na-7" href="thread-pitch~0-7-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">0.7</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a></div><div style="flex-basis: 50%;"><a class="SpecSearchStyles_base__2na-7" href="thread-pitch~0-8-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">0.8</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a><a class="SpecSearchStyles_base__2na-7" href="thread-pitch~1-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">1</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a></div></div></div><div id="attributeId_10000000008220"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Threading</span></div></div><div class="SpecSearchStyles_flexItem__3Rpcp"><a class="SpecSearchStyles_base__2na-7" id="10000000124223" href="threading~fully-threaded/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="HorizontalImageValue_horizontalImage__2AIh3"><div style="flex: 0 0 92px;"><img src="/mvC/BOSS/1728363600000/effceeec-f3fa-45b0-b1f5-452c80357ab7/48408581259.svg" height="32" width="92" alt="Attribute"></div><div class="HorizontalImageValue_horizontalText__3SBp7"><span class="TextDisplay_plainText__1tLS8">Fully</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Threaded</span></div></div></button></div></a></div></div><div id="attributeId_10000000006914"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Head</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Height</span></div></div><div><img class="AttributeDisplay_Image__37Vxi" src="/mvC/BOSS/1728363600000/d29c7a0d-26e0-4199-bb05-8edd96745fd2/6988779640155.svg" height="47" width="153" alt="Attribute Image"></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 50%;"><a class="SpecSearchStyles_base__2na-7" href="head-height~2-00-mm/head-height~2-0-mm/head-height~2-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">2</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a><a class="SpecSearchStyles_base__2na-7" href="head-height~2-60-mm/head-height~2-6-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">2.6</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a></div><div style="flex-basis: 50%;"><a class="SpecSearchStyles_base__2na-7" href="head-height~3-30-mm/head-height~3-3-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">3.3</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a><a class="SpecSearchStyles_base__2na-7" href="head-height~3-90-mm/head-height~3-9-mm/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">3.9</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">mm</span></div></button></div></a></div></div></div><div id="attributeId_10000000008164"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Thread</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Direction</span></div></div><div class="SpecSearchStyles_flexItem__3Rpcp"><a class="SpecSearchStyles_base__2na-7" id="10000000138654" href="thread-direction~right-hand/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Right Hand Thread Direction"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="HorizontalImageValue_horizontalImage__2AIh3"><div style="flex: 0 0 91px;"><img src="/mvC/BOSS/1728363600000/f1c97bf9-f65c-4b5b-9629-55d8d60c3a6d/FullyThreadedRightHandThread.svg" height="18" width="91" alt="Attribute"></div><div class="HorizontalImageValue_horizontalText__3SBp7"><span class="TextDisplay_plainText__1tLS8">Right</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Hand</span></div></div></button></div></a></div></div><div id="attributeId_10000003488293"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Drive</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Size</span></div></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7" href="drive-size~no-2/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">No.</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">2</span></div></button></div></a><a class="SpecSearchStyles_base__2na-7" href="drive-size~no-3/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">No.</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">3</span></div></button></div></a></div></div></div><div id="attributeId_10000006128327"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">JIS</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Specification</span></div></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7" href="jis-specification~jis-b-1111/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">JIS</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">B</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">1111</span></div></button></div></a></div></div></div><div id="attributeId_10000000003361"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Rounded</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Head</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Profile</span></div></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7" href="rounded-head-profile~standard/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Standard Rounded Head Profile"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">Standard</span></div></button></div></a></div></div></div><div id="attributeId_10000003479552"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Tensile</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Strength</span></div><span class="SpecSearchStyles_industrialInfoIconContainer__1OHYA"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Tensile Strength"><img class="IndustrialInfoIcon_iconHighlight__3kcRy" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></span></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7" href="tensile-strength~30000~99999~psi/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">30,000</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">psi</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">to</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">99,999</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">psi</span></div></button></div></a></div></div></div><div id="attributeId_10000000008172"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Thread</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Fit</span></div><span class="SpecSearchStyles_industrialInfoIconContainer__1OHYA"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Thread Fit"><img class="IndustrialInfoIcon_iconHighlight__3kcRy" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></span></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7" href="thread-fit~metric-class-6g-2/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Metric Class 6g Thread Fit"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">Metric</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Class</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">6g</span></div></button></div></a></div></div></div><div id="attributeId_10000000008200"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Thread</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Spacing</span></div><span class="SpecSearchStyles_industrialInfoIconContainer__1OHYA"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Thread Spacing"><img class="IndustrialInfoIcon_iconHighlight__3kcRy" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></span></div><div class="SpecSearchStyles_flexItem__3Rpcp"><a class="SpecSearchStyles_base__2na-7" id="10000000153996" href="thread-spacing~coarse/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Coarse Thread Spacing"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="HorizontalImageValue_horizontalImage__2AIh3"><div style="flex: 0 0 90px;"><img src="/mvC/BOSS/1728363600000/41853bb0-2ec8-4375-942b-08ff1bfd22eb/ThreadSpacingCoarse.svg" height="20" width="90" alt="Attribute"></div><div class="HorizontalImageValue_horizontalText__3SBp7"><span class="TextDisplay_plainText__1tLS8">Coarse</span></div></div></button></div></a></div></div><div id="attributeId_10000000006908"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Hardness</span></div></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7" href="hardness~not-rated/"><div class="SpecSearchStyles_icon__2Q_8r"><div></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">Not</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Rated</span></div></button></div></a></div></div></div><div id="attributeId_10000000008205"><div class="AttributeDisplay_divider__LjlYT"></div><div class="SpecSearchStyles_attributeHeaderContainer__Mp5Hv"><div class="SpecSearchStyles_attributeName__1c-Jq"><span class="TextDisplay_plainText__1tLS8">Thread</span><span class="TextDisplay_plainText__1tLS8"> </span><span class="TextDisplay_plainText__1tLS8">Type</span></div></div><div class="SpecSearchStyles_flexTable__ZTYWG"><div style="flex-basis: 100%;"><a class="SpecSearchStyles_base__2na-7" href="thread-type~metric/"><div class="SpecSearchStyles_icon__2Q_8r"><div class="IndustrialInfoIcon_iconContainer__1J9o6" title="About Metric Thread Type"><img class="IndustrialInfoIcon_icon__32S2B" src="/mvC/gfx/IndustrialInfo/industrial-information-icon.svg?ver=1594717164" data-filterwithidind="False" width="12" height="12" alt="Industrial Info Snippet"></div></div><div class="SpecSearchStyles_valueContainer__6D1Av"><button class="SpecSearchStyles_valueButton__1giei"><div class="SpecSearchStyles_specName__3Kj4c"><span class="TextDisplay_plainText__1tLS8">Metric</span></div></button></div></a></div></div></div></div></div></div><div class="clearDiv"></div></div><div class="jo" id="ProdPageContent" style="display: block; width: 525px; height: 847px;"><div><div id="ProdPageContent_Inner"><div id="WebToolset_DynamicPageWebPart_638689966529272062XMSH" style="height: 22px;"><div class="WebToolsetWebPart_Cntnr WebToolsetWebPart-border" style="width: 517px; top: 85px;"><div class="WebToolsetToolWebPart_Cntnr WebToolsetToolWebPart_Aligned_RIGHT WebToolsetToolWebPart_forward WebToolsetToolWebPart_RightmostTool_Cntnr"><a href="#" data-mcm-webtoolset-identifier="true" data-mcm-tool-name="FwdLnkTool" title="Email a link to these products" class="ai">Forward</a></div><div class="WebToolsetToolWebPart_FormCntnr" style="top: 21px;"><div class="WebToolsetToolWebPart_LeftBorder"> </div><div class="WebToolsetToolWebPart_CloseBtn"><a id="FrwLnkCancelClick" href="#" class="ai" style="background-image: url(/mvC/gfx/HomePageImages.png?ver=1622796110);"></a></div><form action="#" class="WebToolsetToolWebPart_FwdLnkTool_Form"><div class="WebToolsetToolWebPart_Lbl">Enter e-mail addresses in the fields below</div><div class="WebToolsetToolWebPart_ToAreaCntnr"><label id="tolabel" for="fwdTo">To</label><input id="fwdTo" type="text" value="" maxlength="50" class="WebToolsetToolWebPart_ToEmailInp"></div><div class="WebToolsetToolWebPart_FromAreaCntnr"><label id="fromlabel" for="fwdFrom">From</label><input id="fwdFrom" type="text" value="" maxlength="50" class="WebToolsetToolWebPart_FrmEmailInp"></div><div class="WebToolsetToolWebPart_Lbl">Message</div><textarea cols="52" rows="6" id="messagetxt" class="WebToolsetToolWebPart_MsgInp"></textarea><div class="WebToolsetToolWebPart_LinkAreaCntnr"><label id="linklabel" for="fwdLink">Link</label><input id="fwdLink" type="text" value="" readonly="" class="WebToolsetToolWebPart_URLInp"></div><div class="WebToolsetToolWebPart_ErrMsgCntnr"></div><div class="WebToolsetToolWebPart_Btns"><button class="button-forward-order forward-link"><span class="button-reset--IE">Send</span></button><a class="link-undo cancel-forward-link" title="">Cancel</a><div style="clear: both;"></div></div></form><div class="DropShadow AbsolutelyPositionedDropShadow" style="z-index: -2;"></div></div><div class="WebToolsetToolWebPart_ConfirmationMsg" style="top: 21px;"><div class="WebToolsetToolWebPart_ConfirmationMsgTxt"></div><div class="WebToolsetToolWebPart_LeftBorder"> </div><div class="WebToolsetToolWebPart_CloseBtn"><a id="FrwLnkCloseCnfrmMsgClick" href="#" class="ai" style="background-image: url(/mvC/gfx/HomePageImages.png?ver=1622796110);"></a></div></div><div class="WebToolsetToolWebPart_Cntnr WebToolsetToolWebPart_Aligned_RIGHT WebToolsetToolWebPart_print"><a href="#" data-mcm-webtoolset-identifier="true" data-mcm-tool-name="PrintTool" class="ai">Print</a></div><div class="WebToolsetToolWebPart_Cntnr WebToolsetToolWebPart_Aligned_RIGHT WebToolsetToolWebPart_how-can-we-improve"><a href="#" data-mcm-webtoolset-identifier="true" data-mcm-tool-name="FeedbackTool" class="ai">How can we improve?</a></div><div class="WebToolsetToolWebPart_FormCntnr" style="font: 12px arial, helvetica, sans-serif; top: 21px;"><div class="WebToolsetToolWebPart_LeftBorder"> </div><div class="WebToolsetToolWebPart_CloseBtn"><a id="FeedbackToolCancelClick" href="#" class="ai" style="background-image: url(/mvC/gfx/HomePageImages.png?ver=1622796110);"></a></div><form action="#" class="WebToolsetToolWebPart_FeedbackTool_Form"><div class="WebToolsetToolWebPart_Lbl">Comments</div><textarea cols="52" rows="5" class="WebToolsetToolWebPart_MsgInp"></textarea><div class="WebToolsetToolWebPart_Lbl">E-mail address (if you would like a response)</div><div><input type="text" value="" maxlength="50" class="WebToolsetToolWebPart_FrmEmailInp"></div><div class="WebToolsetToolWebPart_ErrMsgCntnr"></div><div class="WebToolsetToolWebPart_Btns"><button class="button-send-feedback-toolset send-feedback-toolset"><span class="button-reset--IE">Send</span></button><a class="link-undo cancel-feedback-toolset" title="">Cancel</a><div style="clear: both;"></div></div></form><div class="DropShadow AbsolutelyPositionedDropShadow" style="z-index: -2;"></div></div><div class="WebToolsetToolWebPart_ConfirmationMsg" style="top: 21px;"><div class="WebToolsetToolWebPart_ConfirmationMsgTxt"></div><div class="WebToolsetToolWebPart_LeftBorder"> </div><div class="WebToolsetToolWebPart_CloseBtn"><a id="FeedbackToolCloseCnfrmMsg" href="#" class="ai" style="background-image: url(/mvC/gfx/HomePageImages.png?ver=1622796110);"></a></div></div><div class="WebToolsetToolWebPart_Cntnr WebToolsetToolWebPart_Aligned_LEFT WebToolsetToolWebPart_TxtTool_Cntnr">4 Products</div></div></div><div id="ProductExplanationWebPart"></div><div id="PageCntnrWebPart"><div class="jp" id="PageCntnr"><section class="ap" id="ProdPrsnttnGrpCntnr"><div class="kf kg PrsnttnStructure5 Show" id="Abbr_1243016"><div><div class="aq kl"><h3 class="ki">About Rounded Head Screws</h3></div><div><div><p class="km">More</p></div></div></div></div></section><section id="ProdPrsnttnGrpCntnr"><div class="PrsnttnGrid"><div id="GridLayoutRow_638689966529316060LIWD"><div class="am bb GridCell" colspan="1" style="width:822px;"><div class="Clear jz PrsnttnRul PrsnttnStructure2" id="Full_6950263658757"><div id="PrsnttnStrucBase_638689966529316082QHPA"><div class="aq PrsnttnHdrCntnr" id="PrsnttnHdrCntnr_638689966529316122TMEY"><h3 class="jq"><span class="Wrd">JIS Stainless</span> Steel Pan Head Screws </h3></div><div><div><div class="am aw ImgsCntnr" id="ImgGridCntnr_638689966529316140FSKB"><div class="horizImgs ImgGrid"><div><div class="am az GridCell" colspan="1" style="width:109px;padding-right:0px;padding-left:0px;padding-top:0px;"><div class="aj ImgCaptionCntnrHover" id="ImgCaptionCntnr_638689966529281153JKCE" mcm-large-src="/mvC/Contents/gfx/ImageCache/943/94387A426p1-b01-digitall@1x_637079412452340668.png?ver=ImageNotFound" mcm-large-srcset="/mvC/Contents/gfx/ImageCache/943/94387A426p1-b01-digitall@1x_637079412452340668.png?ver=ImageNotFound,/mvC/Contents/gfx/ImageCache/943/94387A426p1-b01-digitall@2x_637079412452340668.png?ver=ImageNotFound,/mvC/Contents/gfx/ImageCache/943/94387A426p1-b01-digitall@3x_637079412452340668.png?ver=ImageNotFound,/mvC/Contents/gfx/ImageCache/943/94387A426p1-b01-digitall@4x_637079412452340668.png?ver=ImageNotFound"><img title="" src="/mvc/contents/gfx/imagecache/943/94387a426p1-b01-digitall@halfx_637079412452340668.png?ver=imagenotfound" data-filterwithidind="True" data-filterid="-35333" width="109" height="68" alt="" id="InlineImg_638689966529316340KGQE"></div></div><div class="clearDiv"></div></div></div></div><div class="am"><div class="ap CpyCntnr" style="width:683px;"><p class="ap PrsnttnCpy">Made to Japanese Industrial <span class="Wrd">Standards,</span> these screws have narrower and shorter heads than standard Phillips pan head <span class="Wrd">screws.</span> They are chemical resistant and may be mildly <span class="Wrd">magnetic.</span> Length is measured from under the <span class="Wrd">head.</span></p><p class="PrsnttnCpy"><img class="jx" title="" src="https://images1.mcmaster.com/mvC/gfx/CADTriadIcon.svg?ver=1655309014" data-filterwithidind="False" width="33" height="20" alt="3D CAD models available">For technical drawings and 3-D models, click on a part number.</p></div><div class="ItmTblCntnr PrsnttnTbl" style="width:683px;"><div class="hz"><table class="hn" id="RenderableTbl_638689966529299886OGEQ" style="margin-right:0px;"><thead><tr><td class="ek gk gs" style="padding-right:10px;padding-left:14px;"><span class="Wrd">Lg.,</span> mm</td><td class="ek gk gw" style="padding-right:10px;padding-left:0px;">Threading</td><td class="ek gk gw" style="padding-right:10px;padding-left:0px;">Head<br><span class="Wrd">Dia.,</span> mm</td><td class="ek gk gw" style="padding-right:10px;padding-left:0px;">Head<br><span class="Wrd">Ht.,</span> mm</td><td class="ek gk gw" style="padding-right:10px;padding-left:0px;">Drive<br>Size</td><td class="ek gk gw Prsnttn_IndustrialInfoIconAndCaption" data-mcm-prod-id="3432645549136" style="padding-right:10px;padding-left:0px;">Tensile<br><span class="Wrd">Strength,</span> psi<div class="Prsnttn_AttrHeading_IndustrialInfoIcon Prsnttn_AttrHeading_IndustrialInfoIconPadding"><img class="Prsnttn_IndustrialInfoIcon" title="About Tensile Strength, Psi" src="/gfx/IndustrialInfo\industrial-information-icon.svg" data-filterwithidind="False" width="12" height="12" alt="click to learn more about "></div></td><td class="ek gk gw" style="padding-right:10px;padding-left:0px;">Specifications<br>Met</td><td class="ek gk gw" style="padding-right:10px;padding-left:0px;"><span class="Wrd">Pkg.</span><br><span class="Wrd">Qty.</span></td><td class="ek gk gm" style="padding-right:10px;padding-left:0px;">&nbsp;</td><td class="ek gk hc" style="padding-right:5px;padding-left:0px;"><span class="Wrd">Pkg.</span></td></tr></thead><tbody><tr id="RenderableRow_638689966529301011NXVZ"><th colspan="10"><div class="hl ie Stack_Pivot_IndustrialInfo Prsnttn_IndustrialInfoIconAndCaption_Pointer" data-mcm-prod-id="5460725801094" data-mcm-prod-attr-id="2263352684202" style="white-space:nowrap;"><span class="Wrd">18-8</span> Stainless Steel<div class="Prsnttn_ValCell_IndustrialInfoIcon Prsnttn_ValCell_IndustrialInfoIconPadding Stack_Pivot_IndustrialInfoIcon"><img class="Prsnttn_IndustrialInfoIcon" title="About 18-8 Stainless Steel " src="/gfx/IndustrialInfo\industrial-information-icon.svg" data-filterwithidind="False" width="12" height="12" alt="click to learn more about 18-8 Stainless Steel"></div></div></th></tr><tr id="RenderableRow_638689966529301092PZOQ"><th colspan="10"><div class="hw ig">M3 × <span class="Wrd">0.5</span> mm</div></th></tr><tr><td class="dx ea ek eq es">20</td><td class="dx ea ek es">Fully Threaded</td><td class="dx ea ek es" style="text-indent:6.68px;">5.50</td><td class="dx ea ek es">2.00</td><td class="dx ea ek es">No. 2</td><td class="dx ea ek es">50,000</td><td class="dx ea ek es">JIS B 1111</td><td class="dx ea ek et">10</td><td class="dx eb ek ex"><a class="PartNbrLnk" data-mcm-itm-id="442749" data-mcm-partnbr="94102A107" href="/94102A107" data-mcm-partnbr-seqnbr="1" style="width:63px;">94102A107</a></td><td class="dx ec ek fb fc">$14.43</td></tr><tr id="RenderableRow_638689966529302008IZBD"><th colspan="10"><div class="hw ig dv">M4 × <span class="Wrd">0.7</span> mm</div></th></tr><tr><td class="dx ea ek eq es">20</td><td class="dx ea ek es">Fully Threaded</td><td class="dx ea ek es" style="text-indent:6.68px;">7.00</td><td class="dx ea ek es">2.60</td><td class="dx ea ek es">No. 2</td><td class="dx ea ek es">50,000</td><td class="dx ea ek es">JIS B 1111</td><td class="dx ea ek et">10</td><td class="dx eb ek ex"><a class="PartNbrLnk" data-mcm-itm-id="442730" data-mcm-partnbr="94102A114" href="/94102A114" data-mcm-partnbr-seqnbr="1" style="width:63px;">94102A114</a></td><td class="dx ec ek fb fc">20.68</td></tr><tr id="RenderableRow_638689966529302651BGQG"><th colspan="10"><div class="hw ig dv">M5 × <span class="Wrd">0.8</span> mm</div></th></tr><tr><td class="dx ea ek eq es">20</td><td class="dx ea ek es">Fully Threaded</td><td class="dx ea ek es" style="text-indent:6.68px;">9.00</td><td class="dx ea ek es">3.30</td><td class="dx ea ek es">No. 2</td><td class="dx ea ek es">50,000</td><td class="dx ea ek es">JIS B 1111</td><td class="dx ea ek et" style="text-indent:6.68px;">5</td><td class="dx eb ek ex"><a class="PartNbrLnk" data-mcm-itm-id="442757" data-mcm-partnbr="94102A122" href="/94102A122" data-mcm-partnbr-seqnbr="1" style="width:63px;">94102A122</a></td><td class="dx ec ek fb fc">19.82</td></tr><tr id="RenderableRow_638689966529303280ILJE"><th colspan="10"><div class="hw ig dv">M6 × 1 mm</div></th></tr><tr id="RenderableRow_638689966529316420FUFH"><td class="dx ea ek eq es">20</td><td class="dx ea ek es">Fully Threaded</td><td class="dx ea ek es">10.50</td><td class="dx ea ek es">3.90</td><td class="dx ea ek es">No. 3</td><td class="dx ea ek es">50,000</td><td class="dx ea ek es">JIS B 1111</td><td class="dx ea ek et" style="text-indent:6.68px;">5</td><td class="dx eb ek ex"><a class="PartNbrLnk" data-mcm-itm-id="442759" data-mcm-partnbr="94102A130" href="/94102A130" data-mcm-partnbr-seqnbr="1" style="width:63px;">94102A130</a></td><td class="dx ec ek fb fc">22.50</td></tr></tbody></table></div></div></div><div class="clearDiv"></div></div></div></div></div></div><div class="clearDiv"></div></div></div></section></div></div></div></div></div><div></div></div></main>
+
+                    <div id="ShellLayout_MainIFrame_Cntnr">
+                                                            <!--[if !IE]><!-->
+                                                                <iframe name="MainIFrame" id="MainIFrame" frameborder="0" allowtransparency="true" style="display: none;"></iframe>
+                                                            <!--<![endif]-->
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+       <footer id="Shell_BottomNavWebPart_Cntnr"><div id="BottomNavWebPart_Cntnr" class="DefltOpaqueBackgrnd TopRul"><div id="BottomNavWebPart_LnksCntnr"><a class="BottomNavLnk" id="BottomNavWebPart_HomeLnk" href="/">Home</a><span class="VerticalSeprt">|</span><a class="BottomNavLnk" id="BottomNavWebPart_ContactLnk" href="/contact">Locations</a><span class="VerticalSeprt">|</span><a class="BottomNavLnk" id="BottomNavWebPart_ReturnsLnk" href="/returns">Returns</a><span class="VerticalSeprt">|</span><a class="BottomNavLnk" id="BottomNavWebPart_CareersLnk" href="/careers">Careers</a><span class="VerticalSeprt">|</span><a class="BottomNavLnk" id="BottomNavWebPart_MobileLnk" href="/mobile">Mobile App</a><span class="VerticalSeprt">|</span><a class="BottomNavLnk" id="BottomNavWebPart_SWAddInLnk" href="/solidworksaddin">Solidworks Add-In</a><span class="VerticalSeprt">|</span><a class="BottomNavLnk" id="BottomNavWebPart_HelpLnk" href="/help">Help</a><span class="VerticalSeprt">|</span><a class="BottomNavLnk" id="BottomNavWebPart_SiteSettingsLnk" href="/settings">Settings</a></div><div id="BottomNavWebPart_TermsCntnr"><span class="TermsTxt" style="display: none;">By using this website, you agree to our </span><a class="BottomNavLnk" id="BottomNavWebPart_TermsandConditionsLnk" href="/termsandconditions">Terms and Conditions</a><span class="TermsTxt"> and </span><a class="BottomNavLnk" id="BottomNavWebPart_PrivacyPolicyLnk" href="/privacypolicy">Privacy Policy</a></div></div></footer>
+
+    </div>
+
+
+
+<div id="McMaster_EnvrMgr_TestDiv" style="display: inline; position: absolute; visibility: hidden; font: bold 12px / 14px arial, helvetica, sans-serif;">The quick brown fox jumped over the lazy dog. Pedestal (35" Ht. x 4" Wd. x 4" Dp.)</div></body></html>
